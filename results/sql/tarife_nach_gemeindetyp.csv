@@ -1,0 +1,4 @@
+gemeindetyp_code,gemeindetyp,anzahl_gemeinden,mittelwert_rp_kwh,minimum_rp_kwh,maximum_rp_kwh
+1,Städtisch,508,28.005,21.883,36.91
+2,Intermediär,579,28.182,16.227,41.365
+3,Ländlich,1021,28.361,9.643,43.613

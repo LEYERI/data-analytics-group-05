@@ -1,0 +1,10 @@
+Step,Count
+ElCom tariff rows in the raw dataset,2268
+Tariff rows with a changed municipality number,17
+Identical tariff combinations consolidated,12
+Tariff rows after deduplication,2256
+Rows excluded due to a missing total tariff,1
+Remaining analysis rows,2255
+Total BFS municipalities,2110
+Municipalities with a valid tariff,2108
+Municipalities without a valid tariff,2

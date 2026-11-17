@@ -1,159 +1,97 @@
-# Wohnort und Stromrechnung
+# Where You Live and What You Pay for Electricity
 
-Eine Analyse der Haushaltstarife in Schweizer Gemeinden im Rahmen
-des Moduls Data Analytics.
+A Data Analytics module project on household electricity tariffs in Swiss municipalities.
 
-## Forschungsfrage
+## Research question
 
-Wie unterscheiden sich die Stromtarife zwischen städtischen,
-intermediären und ländlichen Schweizer Gemeinden unter
-Berücksichtigung des Kantons?
+How do electricity tariffs differ between urban, intermediate and rural Swiss municipalities after accounting for canton?
 
-## Untersuchungsumfang
+## Scope
 
-- Tarifjahr: 2026
-- Haushaltsprofil: H4 mit 4’500 kWh Jahresverbrauch
-- Produkt: Standardprodukt
-- Zielvariable: Tarifvergleichswert in Rp./kWh
-- Untersuchungseinheit: Gemeinde
-- Gruppierung: Stadt/Land-Typologie 2020
-- Gemeindestand: 01.01.2026
-- Weitere erklärende Variable: Kanton
-
-Wir untersuchen beschreibende und statistische Zusammenhänge.
-Aus den Ergebnissen können keine kausalen Wirkungen des
-Gemeindetyps auf den Stromtarif abgeleitet werden.
-
-## Datenquellen
-
-### ElCom
-
-Die Stromtarife werden mit Python über die offizielle
-LINDAS-SPARQL-Schnittstelle abgerufen.
-
-- Endpunkt: https://ld.admin.ch/query
-- Informationen:
-  https://www.elcom.admin.ch/de/tarifdaten-und-visualisierungen
-
-### Bundesamt für Statistik
-
-Die Gemeindedaten enthalten Gemeindenummer, Gemeindename,
-Kanton und Stadt/Land-Typologie.
-
-- Datenzugang:
-  https://www.agvchapp.bfs.admin.ch/api/communes/levels?date=01-01-2026
-
-Die unveränderten API-Antworten und Angaben zu den Abrufen
-werden unter data/raw gespeichert.
-
-## Vorgehen und Projektstand
-
-| Schritt | Status |
+| Item | Definition |
 |---|---|
-| Datenerhebung über offizielle APIs | Umgesetzt |
-| Datenaufbereitung und Integration | Umgesetzt |
-| Speicherung in SQLite und SQL-Abfragen | Umgesetzt |
-| Explorative Datenanalyse | Ausstehend |
-| Regression und Modellbewertung | Ausstehend |
-| Abschliessende Interpretation und Präsentation | Ausstehend |
+| Tariff year | 2026 |
+| Household profile | H4, with annual consumption of 4,500 kWh |
+| Product | Standard product |
+| Outcome | Municipality comparison tariff in Swiss centimes (Rp.) per kWh |
+| Unit of analysis | Municipality |
+| Grouping | BFS urban–rural typology 2020 |
+| Municipality reference date | January 1, 2026 |
+| Additional explanatory variable | Canton |
 
-Die Daten werden über die BFS-Gemeindenummer verknüpft.
-Gemeindeänderungen sind anhand amtlicher Mutationsmeldungen
-dokumentiert.
+The analysis describes statistical associations. Estimating causal effects is outside its scope.
 
-Für den Gemeindevergleich bilden wir zunächst den Mittelwert
-der unterschiedlichen Tarifwerte je Gemeinde und Betreiber.
-Anschliessend mitteln wir die Betreiberwerte je Gemeinde.
-Dadurch erhält jede Gemeinde einen Tarifvergleichswert.
+## Data sources
 
-Dieser Wert ist ungewichtet und entspricht keinem beobachteten
-durchschnittlich bezahlten Haushaltstarif. Kunden- und
-Verbrauchsanteile stehen nicht zur Verfügung.
+- The Federal Electricity Commission (ElCom) publishes electricity tariffs through [LINDAS SPARQL](https://ld.admin.ch/query). [ElCom tariff information](https://www.elcom.admin.ch/de/tarifdaten-und-visualisierungen)
+- The Federal Statistical Office (BFS) provides municipality numbers, official names, cantons and the urban–rural typology. [BFS municipality register for January 1, 2026](https://www.agvchapp.bfs.admin.ch/api/communes/levels?date=01-01-2026)
 
-## Bisherige Datenbasis
+The original API responses and retrieval metadata are in `data/raw/`.
 
-Der gespeicherte ElCom-Abruf enthält 2’268 Tarifzeilen.
+## Method and project status
 
-Nach Harmonisierung der Gemeindenummern, Zusammenfassung
-identischer Tarifkombinationen und Ausschluss eines fehlenden
-Gesamttarifs verbleiben:
-
-- 2’255 einzelne Tarifwerte,
-- 2’108 Gemeinden mit einem Tarifvergleichswert.
-
-Die BFS-Stammdaten enthalten 2’110 Gemeinden.
-Für Augst und Nürensdorf liegt im abgefragten Bestand keine
-passende Tarifzeile vor.
-
-Diese Angaben beschreiben den Datenbestand.
-Sie sind noch keine abschliessenden Ergebnisse zur Forschungsfrage.
-
-## Projektstruktur
-
-| Pfad | Inhalt |
+| Step | Status |
 |---|---|
-| notebooks/ | Ausführbare Jupyter-Notebooks mit Erklärungen |
-| data/raw/ | Unveränderte Rohdaten und Abrufmetadaten |
-| data/processed/ | Aufbereitete Daten und Bereinigungsnachweise |
-| data/stromtarife.sqlite | SQLite-Datenbank |
-| sql/ | Gespeicherte SQL-Abfragen |
-| results/sql/ | Ergebnisse der SQL-Auswertungen |
-| docs/ | Ausführliche Dokumentation der Arbeitsschritte |
+| 1. Collect data through official APIs | Complete |
+| 2. Prepare and integrate the data | Complete |
+| 3. Store data in SQLite and run SQL from Python | Complete |
+| Exploratory data analysis | Pending |
+| Regression and model evaluation | Pending |
+| Final interpretation and presentation | Pending |
 
-## Ausführung in VS Code
+We join the sources by BFS municipality number and use official change notices to document municipality number updates.
 
-### Voraussetzungen
+We first average distinct tariff values within each municipality and operator, then average the operator values within each municipality. This gives each operator equal weight within a municipality and yields one comparison value per municipality. Interpreting it as an average tariff paid by households would require customer or consumption shares, which are unavailable.
 
-- Python 3
-- VS Code mit den Erweiterungen Python und Jupyter
-- Python-Bibliotheken requests und pandas
+## Data coverage
 
-Die benötigten Bibliotheken können in einer Notebook-Codezelle
-installiert werden:
+| Measure | Count |
+|---|---:|
+| ElCom tariff rows in the saved response | 2,268 |
+| BFS municipality records | 2,110 |
+| Cleaned tariff rows | 2,255 |
+| Municipality comparison values | 2,108 |
+
+After harmonizing municipality numbers, we consolidate 12 identical municipality–operator–tariff combinations and exclude one row with a missing total tariff. Augst and Nürensdorf have no matching tariff in the saved snapshot. Canton adjustment is planned for regression. The current SQL summary compares municipality types descriptively.
+
+## Project structure
+
+| Path | Contents |
+|---|---|
+| `notebooks/` | Jupyter notebooks with code and explanations |
+| `data/raw/` | Original API responses and retrieval metadata |
+| `data/processed/` | Processed tables and cleaning records |
+| `data/electricity_tariffs.sqlite` | SQLite database |
+| `sql/` | Saved SQL queries |
+| `results/sql/` | SQL summaries exported as CSV |
+| `docs/` | Detailed project documentation |
+
+## Run the notebooks in VS Code
+
+Open the repository in VS Code with the Python and Jupyter extensions. Select a Python 3 kernel with `requests` and `pandas` installed. If needed, install them in a notebook cell.
 
 ```python
 %pip install requests pandas
 ```
 
-sqlite3 sowie die verwendeten Hilfsmittel für Dateipfade und
-JSON-Verarbeitung gehören zur Python-Standardbibliothek.
+Run the cells from top to bottom in this order.
 
-### Reihenfolge der Notebooks
+1. [Data collection](notebooks/01_data_collection.ipynb) loads and checks the saved responses by default. Set `fetch_new_data = True` to retrieve new, timestamped snapshots over the internet.
+2. [Data preparation](notebooks/02_data_preparation.ipynb) integrates the saved responses. If several snapshots exist, explicitly select the files to analyze.
+3. [SQLite and SQL](notebooks/03_database.ipynb) rebuilds the three tables from the processed CSVs and exports the query results. `sqlite3` is part of Python's standard library.
 
-1. notebooks/01_datenerhebung.ipynb
-2. notebooks/02_datenaufbereitung.ipynb
-3. notebooks/03_datenbank.ipynb
+## Documentation
 
-Das Repository als Projektordner in VS Code öffnen.
-Im jeweiligen Notebook den Python-Kernel auswählen und
-die Zellen von oben nach unten ausführen.
+The project was originally written in German and was translated into English with the help of AI. The analysis uses the original methodology and calculations.
 
-Notebook 1 ruft die offiziellen Schnittstellen ab und benötigt
-Internetzugang. Jeder erneute Abruf erstellt Dateien mit
-einem neuen Zeitstempel.
+1. [Data collection](docs/01_data_collection.md)
+2. [Data preparation and integration](docs/02_data_preparation.md)
+3. [SQLite storage and SQL queries](docs/03_database.md)
 
-Notebook 2 verarbeitet die gespeicherten Rohdateien.
-Bei mehreren vorhandenen Abrufen muss der gewünschte
-Datenstand bewusst ausgewählt werden.
+## AI assistance
 
-Notebook 3 erstellt die Datenbank aus den aufbereiteten CSV-Dateien.
-Beim erneuten Ausführen werden die drei Datenbanktabellen ersetzt.
+The group used ChatGPT for code suggestions, explanations, debugging and documentation. The linked documents describe how it was used, what the group checked and the limitations encountered.
 
-## Dokumentation
+## Project team
 
-1. [Datenerhebung](docs/01_datenerhebung.md)
-2. [Datenaufbereitung und Integration](docs/02_datenaufbereitung.md)
-3. [SQLite-Datenbank und SQL-Abfragen](docs/03_datenbank.md)
-
-## KI-Unterstützung
-
-ChatGPT wurde unterstützend für Codevorschläge,
-Erklärungen, Fehlerbehebung und Dokumentation verwendet.
-
-Die konkrete Verwendung, die durchgeführten Kontrollen
-und die festgestellten Grenzen sind in den jeweiligen
-Dokumentationsdateien beschrieben.
-
-## Projektteam
-
-Die Namen aller Gruppenmitglieder werden hier vor der Abgabe ergänzt.
+The group will add all members' names before submission.

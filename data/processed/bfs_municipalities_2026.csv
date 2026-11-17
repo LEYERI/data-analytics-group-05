@@ -1,0 +1,2111 @@
+municipality_number,municipality_name,canton_id,canton,municipality_type_code,municipality_type
+6158,Vionnaz,23,Valais / Wallis,2,Intermediate
+3023,Speicher,15,Appenzell Ausserrhoden,2,Intermediate
+6011,Zwischbergen,23,Valais / Wallis,3,Rural
+2228,Villars-sur-Glâne,10,Fribourg / Freiburg,1,Urban
+2230,Villarsel-sur-Marly,10,Fribourg / Freiburg,3,Rural
+181,Wila,1,Zürich,2,Intermediate
+71,Wil (ZH),1,Zürich,3,Rural
+4045,Wettingen,19,Aargau,1,Urban
+121,Wetzikon (ZH),1,Zürich,1,Urban
+4081,Widen,19,Aargau,1,Urban
+4147,Zetzwil,19,Aargau,3,Rural
+4048,Würenlos,19,Aargau,1,Urban
+4183,Zeihen,19,Aargau,3,Rural
+4263,Zeiningen,19,Aargau,2,Intermediate
+231,Zell (ZH),1,Zürich,2,Intermediate
+1323,Wollerau,5,Schwyz,1,Urban
+6300,Zermatt,23,Valais / Wallis,1,Urban
+4083,Zufikon,19,Aargau,1,Urban
+1711,Zug,9,Zug,1,Urban
+2622,Zullwil,11,Solothurn,2,Intermediate
+160,Zumikon,1,Zürich,1,Urban
+4264,Zuzgen,19,Aargau,3,Rural
+6299,Zeneggen,23,Valais / Wallis,3,Rural
+72,Winkel,1,Zürich,1,Urban
+182,Wildberg,1,Zürich,3,Rural
+6202,Wiler (Lötschen),23,Valais / Wallis,3,Rural
+4288,Wiliberg,19,Aargau,3,Rural
+4047,Würenlingen,19,Aargau,2,Intermediate
+230,Winterthur,1,Zürich,1,Urban
+2501,Winznau,11,Solothurn,1,Urban
+2502,Wisen (SO),11,Solothurn,3,Rural
+2481,Witterswil,11,Solothurn,2,Intermediate
+4181,Wittnau,19,Aargau,3,Rural
+4082,Wohlen (AG),19,Aargau,1,Urban
+4046,Wohlenschwil,19,Aargau,2,Intermediate
+1511,Wolfenschiessen,7,Nidwalden,3,Rural
+3038,Wolfhalden,15,Appenzell Ausserrhoden,2,Intermediate
+4182,Wölflinswil,19,Aargau,3,Rural
+4123,Windisch,19,Aargau,1,Urban
+158,Stäfa,1,Zürich,1,Urban
+1218,Spiringen,4,Uri,3,Rural
+43,Volken,1,Zürich,2,Intermediate
+4040,Spreitenbach,19,Aargau,1,Urban
+199,Volketswil,1,Zürich,1,Urban
+4287,Vordemwald,19,Aargau,2,Intermediate
+1348,Vorderthal,5,Schwyz,3,Rural
+6159,Vouvry,23,Valais / Wallis,2,Intermediate
+2160,Vuadens,10,Fribourg / Freiburg,1,Urban
+6292,St. Niklaus,23,Valais / Wallis,3,Rural
+2303,St. Silvester,10,Fribourg / Freiburg,3,Rural
+2304,St. Ursen,10,Fribourg / Freiburg,3,Rural
+5266,Stabio,21,Ticino,1,Urban
+100,Stadel,1,Zürich,2,Intermediate
+2601,Solothurn,11,Solothurn,1,Urban
+180,Weisslingen,1,Zürich,2,Intermediate
+6639,Soral,25,Genève,3,Rural
+5225,Sorengo,21,Ticino,1,Urban
+2153,Sorens,10,Fribourg / Freiburg,3,Rural
+6298,Visperterminen,23,Valais / Wallis,3,Rural
+1220,Wassen,4,Uri,3,Rural
+70,Wasterkingen,1,Zürich,3,Rural
+4262,Wegenstetten,19,Aargau,3,Rural
+102,Weiach,1,Zürich,2,Intermediate
+69,Wallisellen,1,Zürich,1,Urban
+1710,Walchwil,9,Zug,2,Intermediate
+3036,Wald (AR),15,Appenzell Ausserrhoden,3,Rural
+120,Wald (ZH),1,Zürich,2,Intermediate
+3007,Waldstatt,15,Appenzell Ausserrhoden,2,Intermediate
+4261,Wallbach,19,Aargau,1,Urban
+4240,Waltenschwil,19,Aargau,2,Intermediate
+2585,Walterswil (SO),11,Solothurn,2,Intermediate
+3037,Walzenhausen,15,Appenzell Ausserrhoden,2,Intermediate
+1349,Wangen (SZ),5,Schwyz,1,Urban
+2586,Wangen bei Olten,11,Solothurn,1,Urban
+4320,Tegerfelden,19,Aargau,3,Rural
+4077,Tägerig,19,Aargau,2,Intermediate
+6295,Täsch,23,Valais / Wallis,3,Rural
+5131,Tenero-Contra,21,Ticino,1,Urban
+2307,Tentlingen,10,Fribourg / Freiburg,2,Intermediate
+6010,Termen,23,Valais / Wallis,2,Intermediate
+3024,Teufen (AR),15,Appenzell Ausserrhoden,2,Intermediate
+4145,Teufenthal (AG),19,Aargau,3,Rural
+39,Thalheim an der Thur,1,Zürich,3,Rural
+6640,Thônex,25,Genève,1,Urban
+1374,Steinerberg,5,Schwyz,3,Rural
+6293,Stalden (VS),23,Valais / Wallis,3,Rural
+6294,Staldenried,23,Valais / Wallis,3,Rural
+13,Stallikon,1,Zürich,2,Intermediate
+1509,Stans,7,Nidwalden,1,Urban
+1510,Stansstad,7,Nidwalden,1,Urban
+2584,Starrkirch-Wil,11,Solothurn,1,Urban
+4210,Staufen,19,Aargau,1,Urban
+4260,Stein (AG),19,Aargau,1,Urban
+3005,Stein (AR),15,Appenzell Ausserrhoden,3,Rural
+4012,Suhr,19,Aargau,1,Urban
+2919,Stetten (SH),14,Schaffhausen,3,Rural
+4285,Strengelbach,19,Aargau,1,Urban
+2964,Stein am Rhein,14,Schaffhausen,2,Intermediate
+1373,Steinen,5,Schwyz,3,Rural
+4041,Stetten (AG),19,Aargau,1,Urban
+101,Steinmaur,1,Zürich,2,Intermediate
+1708,Steinhausen,9,Zug,1,Urban
+141,Thalwil,1,Zürich,1,Urban
+4284,Staffelbach,19,Aargau,3,Rural
+5233,Vico Morcote,21,Ticino,3,Rural
+4117,Thalheim (AG),19,Aargau,3,Rural
+1709,Unterägeri,9,Zug,1,Urban
+2308,Ueberstorf,10,Fribourg / Freiburg,3,Rural
+4286,Uerkheim,19,Aargau,3,Rural
+4078,Uezwil,19,Aargau,3,Rural
+228,Turbenthal,1,Zürich,2,Intermediate
+1347,Tuggen,5,Schwyz,2,Intermediate
+6201,Unterbäch,23,Valais / Wallis,3,Rural
+1375,Unteriberg,5,Schwyz,3,Rural
+4146,Unterkulm,19,Aargau,3,Rural
+4079,Unterlunkhofen,19,Aargau,2,Intermediate
+2463,Unterramsern,11,Solothurn,3,Rural
+1219,Unterschächen,4,Uri,3,Rural
+4044,Untersiggenthal,19,Aargau,1,Urban
+6296,Törbel,23,Valais / Wallis,3,Rural
+5227,Torricella-Taverne,21,Ticino,1,Urban
+2973,Trasadingen,14,Schaffhausen,2,Intermediate
+4013,Unterentfelden,19,Aargau,1,Urban
+2226,Treyvaux,10,Fribourg / Freiburg,2,Intermediate
+6142,Trient,23,Valais / Wallis,3,Rural
+2500,Trimbach,11,Solothurn,1,Urban
+3025,Trogen,15,Appenzell Ausserrhoden,2,Intermediate
+6641,Troinex,25,Genève,1,Urban
+6156,Troistorrents,23,Valais / Wallis,1,Urban
+40,Trüllikon,1,Zürich,3,Rural
+41,Truttikon,1,Zürich,3,Rural
+6645,Veyrier,25,Genève,1,Urban
+2155,Vaulruz,10,Fribourg / Freiburg,3,Rural
+6267,Veysonnaz,23,Valais / Wallis,2,Intermediate
+4120,Veltheim (AG),19,Aargau,2,Intermediate
+5230,Vernate,21,Ticino,1,Urban
+6219,Vernayaz,23,Valais / Wallis,2,Intermediate
+6643,Vernier,25,Genève,1,Urban
+6220,Vérossaz,23,Valais / Wallis,3,Rural
+6644,Versoix,25,Genève,1,Urban
+6025,Vétroz,23,Valais / Wallis,1,Urban
+6089,Vex,23,Valais / Wallis,3,Rural
+5268,Vacallo,21,Ticino,1,Urban
+6157,Val-d'Illiez,23,Valais / Wallis,3,Rural
+6116,Varen,23,Valais / Wallis,3,Rural
+198,Uster,1,Zürich,1,Urban
+6642,Vandoeuvres,25,Genève,1,Urban
+5231,Vezia,21,Ticino,1,Urban
+2045,Vallon,10,Fribourg / Freiburg,3,Rural
+3006,Urnäsch,15,Appenzell Ausserrhoden,3,Rural
+6610,Céligny,25,Genève,2,Intermediate
+5309,Cerentino,21,Ticino,3,Rural
+6232,Chalais,23,Valais / Wallis,2,Intermediate
+1702,Cham,9,Zug,1,Urban
+6608,Carouge (GE),25,Genève,1,Urban
+5307,Campo (Vallemaggia),21,Ticino,3,Rural
+5167,Canobbio,21,Ticino,1,Urban
+6609,Cartigny,25,Genève,3,Rural
+5171,Caslano,21,Ticino,2,Intermediate
+6151,Champéry,23,Valais / Wallis,3,Rural
+6022,Chamoson,23,Valais / Wallis,2,Intermediate
+2008,Châtillon (FR),10,Fribourg / Freiburg,3,Rural
+2068,Châtonnaye,10,Fribourg / Freiburg,3,Rural
+2128,Châtel-sur-Montsalvens,10,Fribourg / Freiburg,3,Rural
+2325,Châtel-Saint-Denis,10,Fribourg / Freiburg,2,Intermediate
+6612,Chêne-Bougeries,25,Genève,1,Urban
+6611,Chancy,25,Genève,2,Intermediate
+3021,Bühler,15,Appenzell Ausserrhoden,2,Intermediate
+4003,Buchs (AG),19,Aargau,1,Urban
+83,Buchs (ZH),1,Zürich,1,Urban
+53,Bülach,1,Zürich,1,Urban
+4229,Bünzen,19,Aargau,2,Intermediate
+1502,Buochs,7,Nidwalden,3,Rural
+213,Brütten,1,Zürich,2,Intermediate
+4193,Brunegg,19,Aargau,2,Intermediate
+2292,Brünisried,10,Fribourg / Freiburg,3,Rural
+2933,Buchberg,14,Schaffhausen,3,Rural
+5160,Brusino Arsizio,21,Ticino,3,Rural
+112,Bubikon,1,Zürich,2,Intermediate
+2961,Buch (SH),14,Schaffhausen,3,Rural
+5162,Cadempino,21,Ticino,1,Urban
+6193,Bürchen,23,Valais / Wallis,3,Rural
+2914,Büttenhardt,14,Schaffhausen,3,Rural
+4064,Büttikon,19,Aargau,2,Intermediate
+4230,Buttwil,19,Aargau,3,Rural
+5161,Cademario,21,Ticino,3,Rural
+2177,Chénens,10,Fribourg / Freiburg,3,Rural
+1205,Bürglen (UR),4,Uri,1,Urban
+2472,Büren (SO),11,Solothurn,3,Rural
+2614,Büsserach,11,Solothurn,2,Intermediate
+2257,Cressier (FR),10,Fribourg / Freiburg,3,Rural
+2130,Crésuz,10,Fribourg / Freiburg,3,Rural
+2250,Courgevaux,10,Fribourg / Freiburg,1,Urban
+6613,Chêne-Bourg,25,Genève,1,Urban
+2186,Cottens (FR),10,Fribourg / Freiburg,3,Rural
+4004,Densbüren,19,Aargau,3,Rural
+54,Dietlikon,1,Zürich,1,Urban
+4231,Dietwil,19,Aargau,3,Rural
+216,Dinhard,1,Zürich,3,Rural
+4194,Dintikon,19,Aargau,2,Intermediate
+86,Dielsdorf,1,Zürich,2,Intermediate
+1503,Dallenwil,7,Nidwalden,3,Rural
+6619,Corsier (GE),25,Genève,1,Urban
+5180,Cureglia,21,Ticino,1,Urban
+25,Dachsen,1,Zürich,2,Intermediate
+214,Dägerlen,1,Zürich,3,Rural
+84,Dällikon,1,Zürich,1,Urban
+5071,Dalpe,21,Ticino,3,Rural
+2572,Däniken,11,Solothurn,1,Urban
+85,Dänikon,1,Zürich,2,Intermediate
+6620,Dardagny,25,Genève,3,Rural
+215,Dättlikon,1,Zürich,3,Rural
+6614,Choulex,25,Genève,2,Intermediate
+5251,Coldrerio,21,Ticino,1,Urban
+6615,Collex-Bossy,25,Genève,2,Intermediate
+6152,Collombey-Muraz,23,Valais / Wallis,1,Urban
+6616,Collonge-Bellerive,25,Genève,1,Urban
+6211,Collonges,23,Valais / Wallis,3,Rural
+6617,Cologny,25,Genève,1,Urban
+6235,Chippis,23,Valais / Wallis,1,Urban
+5176,Comano,21,Ticino,1,Urban
+6023,Conthey,23,Valais / Wallis,1,Urban
+4274,Brittnau,19,Aargau,1,Urban
+6618,Confignon,25,Genève,1,Urban
+2173,Autigny,10,Fribourg / Freiburg,3,Rural
+4223,Auw,19,Aargau,2,Intermediate
+6603,Avully,25,Genève,3,Rural
+6604,Avusy,25,Genève,3,Rural
+6082,Ayent,23,Valais / Wallis,2,Intermediate
+1362,Arth,5,Schwyz,1,Urban
+5091,Ascona,21,Ticino,1,Urban
+6191,Ausserberg,23,Valais / Wallis,3,Rural
+2321,Attalens,10,Fribourg / Freiburg,2,Intermediate
+1203,Attinghausen,4,Uri,1,Urban
+4091,Auenstein,19,Aargau,2,Intermediate
+51,Bachenbülach,1,Zürich,1,Urban
+52,Bassersdorf,1,Zürich,1,Urban
+2931,Bargen (SH),14,Schaffhausen,3,Rural
+2611,Bärschwil,11,Solothurn,3,Rural
+6605,Bardonnex,25,Genève,2,Intermediate
+2701,Basel,12,Basel-Stadt,1,Urban
+2471,Bättwil,11,Solothurn,2,Intermediate
+2541,Balm bei Günsberg,11,Solothurn,3,Rural
+5144,Arogno,21,Ticino,3,Rural
+81,Bachs,1,Zürich,3,Rural
+5242,Balerna,21,Ticino,1,Urban
+111,Bäretswil,1,Zürich,2,Intermediate
+1701,Baar,9,Zug,1,Urban
+6281,Baltschieder,23,Valais / Wallis,1,Urban
+5061,Airolo,21,Ticino,3,Rural
+6101,Agarn,23,Valais / Wallis,3,Rural
+5141,Agno,21,Ticino,1,Urban
+6601,Aire-la-Ville,25,Genève,2,Intermediate
+6102,Albinen,23,Valais / Wallis,3,Rural
+4271,Aarburg,19,Aargau,1,Urban
+4221,Abtwil,19,Aargau,3,Rural
+2,Affoltern am Albis,1,Zürich,1,Urban
+131,Adliswil,1,Zürich,1,Urban
+1401,Alpnach,6,Obwalden,3,Rural
+5143,Aranno,21,Ticino,3,Rural
+6261,Arbaz,23,Valais / Wallis,2,Intermediate
+6021,Ardon,23,Valais / Wallis,1,Urban
+4222,Aristau,19,Aargau,3,Rural
+5001,Arbedo-Castione,21,Ticino,1,Urban
+1201,Altdorf (UR),4,Uri,1,Urban
+1341,Altendorf,5,Schwyz,1,Urban
+6602,Anières,25,Genève,1,Urban
+211,Altikon,1,Zürich,3,Rural
+1361,Alpthal,5,Schwyz,3,Rural
+4191,Ammerswil,19,Aargau,3,Rural
+1202,Andermatt,4,Uri,2,Intermediate
+82,Boppelsen,1,Zürich,3,Rural
+2571,Boningen,11,Solothurn,3,Rural
+4192,Boniswil,19,Aargau,3,Rural
+1501,Beckenried,7,Nidwalden,3,Rural
+5304,Bosco/Gurin,21,Ticino,3,Rural
+2323,Bossonnens,10,Fribourg / Freiburg,2,Intermediate
+4228,Boswil,19,Aargau,2,Intermediate
+3,Bonstetten,1,Zürich,2,Intermediate
+5154,Bissone,21,Ticino,2,Intermediate
+6172,Bister,23,Valais / Wallis,3,Rural
+6173,Bitsch,23,Valais / Wallis,2,Intermediate
+6192,Blatten,23,Valais / Wallis,3,Rural
+2613,Breitenbach,11,Solothurn,2,Intermediate
+5096,Brione sopra Minusio,21,Ticino,1,Urban
+5097,Brissago,21,Ticino,2,Intermediate
+4093,Birrhard,19,Aargau,3,Rural
+4303,Böttstein,19,Aargau,1,Urban
+4273,Bottenwil,19,Aargau,3,Rural
+6032,Bourg-Saint-Pierre,23,Valais / Wallis,3,Rural
+6131,Bovernier,23,Valais / Wallis,3,Rural
+6607,Bernex,25,Genève,1,Urban
+23,Berg am Irchel,1,Zürich,2,Intermediate
+4023,Bergdietikon,19,Aargau,1,Urban
+4062,Berikon,19,Aargau,1,Urban
+22,Benken (ZH),1,Zürich,3,Rural
+2124,Broc,10,Fribourg / Freiburg,2,Intermediate
+5063,Bedretto,21,Ticino,3,Rural
+2951,Beggingen,14,Schaffhausen,3,Rural
+4224,Beinwil (Freiamt),19,Aargau,3,Rural
+2612,Beinwil (SO),11,Solothurn,3,Rural
+2542,Bellach,11,Solothurn,1,Urban
+6606,Bellevue,25,Genève,1,Urban
+4022,Bellikon,19,Aargau,2,Intermediate
+6052,Bellwald,23,Valais / Wallis,3,Rural
+4131,Beinwil am See,19,Aargau,1,Urban
+4226,Besenbüren,19,Aargau,3,Rural
+6054,Binn,23,Valais / Wallis,3,Rural
+4024,Birmenstorf (AG),19,Aargau,2,Intermediate
+4092,Birr,19,Aargau,2,Intermediate
+5148,Bedano,21,Ticino,1,Urban
+5281,Biasca,21,Ticino,2,Intermediate
+2702,Bettingen,12,Basel-Stadt,1,Urban
+2543,Bettlach,11,Solothurn,1,Urban
+4227,Bettwil,19,Aargau,3,Rural
+2445,Biezwil,11,Solothurn,3,Rural
+4132,Birrwil,19,Aargau,2,Intermediate
+4002,Biberstein,19,Aargau,2,Intermediate
+2547,Günsberg,11,Solothurn,3,Rural
+29,Flurlingen,1,Zürich,1,Urban
+2578,Gunzgen,11,Solothurn,3,Rural
+2545,Flumenthal,11,Solothurn,2,Intermediate
+1207,Flüelen,4,Uri,1,Urban
+1209,Gurtnellen,4,Uri,3,Rural
+4028,Freienwil,19,Aargau,3,Rural
+4163,Frick,19,Aargau,1,Urban
+2196,Fribourg,10,Fribourg / Freiburg,1,Urban
+3031,Grub (AR),15,Appenzell Ausserrhoden,2,Intermediate
+2135,Gruyères,10,Fribourg / Freiburg,2,Intermediate
+6624,Gy,25,Genève,2,Intermediate
+57,Freienstein-Teufen,1,Zürich,1,Urban
+1322,Freienbach,5,Schwyz,1,Urban
+2258,Fräschels,10,Fribourg / Freiburg,3,Rural
+116,Grüningen,1,Zürich,2,Intermediate
+27,Feuerthalen,1,Zürich,1,Urban
+2194,Ferpicloz,10,Fribourg / Freiburg,2,Intermediate
+2491,Hauenstein-Ifenthal,11,Solothurn,3,Rural
+2544,Feldbrunnen-St. Niklaus,11,Solothurn,1,Urban
+2616,Fehren,11,Solothurn,3,Rural
+172,Fehraltorf,1,Zürich,2,Intermediate
+4,Hausen am Albis,1,Zürich,2,Intermediate
+6195,Ferden,23,Valais / Wallis,3,Rural
+4197,Hallwil,19,Aargau,3,Rural
+28,Flaach,1,Zürich,2,Intermediate
+4027,Fislisbach,19,Aargau,1,Urban
+4306,Fisibach,19,Aargau,2,Intermediate
+4099,Habsburg,19,Aargau,2,Intermediate
+220,Hagenbuch,1,Zürich,3,Rural
+114,Fischenthal,1,Zürich,3,Rural
+2579,Hägendorf,11,Solothurn,1,Urban
+4068,Hägglingen,19,Aargau,2,Intermediate
+4067,Fischbach-Göslikon,19,Aargau,2,Intermediate
+1321,Feusisberg,5,Schwyz,2,Intermediate
+2617,Grindel,11,Solothurn,3,Rural
+6214,Finhaut,23,Valais / Wallis,3,Rural
+6058,Fieschertal,23,Valais / Wallis,3,Rural
+6057,Fiesch,23,Valais / Wallis,3,Rural
+2971,Hallau,14,Schaffhausen,2,Intermediate
+115,Gossau (ZH),1,Zürich,2,Intermediate
+2294,Giffers,10,Fribourg / Freiburg,2,Intermediate
+1208,Göschenen,4,Uri,3,Rural
+1311,Gersau,5,Schwyz,3,Rural
+6285,Grächen,23,Valais / Wallis,3,Rural
+5186,Grancia,21,Ticino,1,Urban
+6238,Grône,23,Valais / Wallis,2,Intermediate
+4135,Gontenschwil,19,Aargau,3,Rural
+5108,Gordola,21,Ticino,1,Urban
+2022,Gletterens,10,Fribourg / Freiburg,3,Rural
+58,Glattfelden,1,Zürich,2,Intermediate
+2197,Givisiez,10,Fribourg / Freiburg,1,Urban
+1403,Giswil,6,Obwalden,3,Rural
+4165,Gipf-Oberfrick,19,Aargau,1,Urban
+2901,Gächlingen,14,Schaffhausen,3,Rural
+194,Greifensee,1,Zürich,1,Urban
+1342,Galgenen,5,Schwyz,2,Intermediate
+2546,Grenchen,11,Solothurn,1,Urban
+3022,Gais,15,Appenzell Ausserrhoden,2,Intermediate
+2261,Greng,10,Fribourg / Freiburg,3,Rural
+6177,Grengiols,23,Valais / Wallis,3,Rural
+6133,Fully,23,Valais / Wallis,2,Intermediate
+4307,Full-Reuenthal,19,Aargau,3,Rural
+2575,Fulenbach,11,Solothurn,3,Rural
+6263,Grimisuat,23,Valais / Wallis,1,Urban
+6622,Genthod,25,Genève,1,Urban
+6621,Genève,25,Genève,1,Urban
+2474,Gempen,11,Solothurn,3,Rural
+4232,Geltwil,19,Aargau,3,Rural
+2134,Grandvillard,10,Fribourg / Freiburg,3,Rural
+4029,Gebenstorf,19,Aargau,1,Urban
+2198,Granges-Paccot,10,Fribourg / Freiburg,1,Urban
+2079,Grangettes,10,Fribourg / Freiburg,3,Rural
+4164,Gansingen,19,Aargau,3,Rural
+4006,Gränichen,19,Aargau,1,Urban
+5187,Gravesano,21,Ticino,1,Urban
+2328,Granges (Veveyse),10,Fribourg / Freiburg,3,Rural
+4134,Dürrenäsch,19,Aargau,3,Rural
+192,Egg,1,Zürich,2,Intermediate
+6004,Eggerberg,23,Valais / Wallis,2,Intermediate
+2475,Hochwald,11,Solothurn,3,Rural
+2131,Echarlens,10,Fribourg / Freiburg,1,Urban
+4199,Holderbank (AG),19,Aargau,1,Urban
+4136,Holziken,19,Aargau,1,Urban
+153,Hombrechtikon,1,Zürich,2,Intermediate
+218,Ellikon an der Thur,1,Zürich,3,Rural
+6282,Eisten,23,Valais / Wallis,3,Rural
+6194,Eischoll,23,Valais / Wallis,3,Rural
+1301,Einsiedeln,5,Schwyz,1,Urban
+2618,Himmelried,11,Solothurn,3,Rural
+117,Hinwil,1,Zürich,2,Intermediate
+4066,Eggenwil,19,Aargau,2,Intermediate
+4007,Hirschthal,19,Aargau,1,Urban
+113,Dürnten,1,Zürich,1,Urban
+173,Hittnau,1,Zürich,2,Intermediate
+59,Hochfelden,1,Zürich,2,Intermediate
+4195,Egliswil,19,Aargau,3,Rural
+55,Eglisau,1,Zürich,2,Intermediate
+4161,Eiken,19,Aargau,2,Intermediate
+3002,Hundwil,15,Appenzell Ausserrhoden,3,Rural
+1703,Hünenberg,9,Zug,1,Urban
+61,Hüntwangen,1,Zürich,3,Rural
+4200,Hunzenschwil,19,Aargau,2,Intermediate
+87,Hüttikon,1,Zürich,2,Intermediate
+26,Dorf,1,Zürich,3,Rural
+2915,Dörflingen,14,Schaffhausen,3,Rural
+6239,Icogne,23,Valais / Wallis,3,Rural
+1363,Illgau,5,Schwyz,3,Rural
+2573,Dulliken,11,Solothurn,1,Urban
+2293,Düdingen,10,Fribourg / Freiburg,2,Intermediate
+191,Dübendorf,1,Zürich,1,Urban
+6212,Dorénaz,23,Valais / Wallis,3,Rural
+4304,Döttingen,19,Aargau,1,Urban
+1210,Hospental,4,Uri,3,Rural
+2548,Hubersdorf,11,Solothurn,2,Intermediate
+4065,Dottikon,19,Aargau,2,Intermediate
+2473,Dornach,11,Solothurn,1,Urban
+60,Höri,1,Zürich,1,Urban
+4251,Hellikon,19,Aargau,3,Rural
+2962,Hemishofen,14,Schaffhausen,3,Rural
+4198,Hendschiken,19,Aargau,2,Intermediate
+1206,Erstfeld,4,Uri,2,Intermediate
+31,Henggart,1,Zürich,2,Intermediate
+2137,Hauteville,10,Fribourg / Freiburg,3,Rural
+193,Fällanden,1,Zürich,1,Urban
+5,Hedingen,1,Zürich,1,Urban
+4196,Fahrwangen,19,Aargau,3,Rural
+3032,Heiden,15,Appenzell Ausserrhoden,2,Intermediate
+6083,Evolène,23,Valais / Wallis,3,Rural
+6213,Evionnaz,23,Valais / Wallis,3,Rural
+2296,Heitenried,10,Fribourg / Freiburg,3,Rural
+2615,Erschwil,11,Solothurn,3,Rural
+1506,Ennetmoos,7,Nidwalden,3,Rural
+1505,Ennetbürgen,7,Nidwalden,3,Rural
+4026,Ennetbaden,19,Aargau,1,Urban
+221,Hettlingen,1,Zürich,2,Intermediate
+1402,Engelberg,6,Obwalden,2,Intermediate
+1504,Emmetten,7,Nidwalden,3,Rural
+56,Embrach,1,Zürich,1,Urban
+6283,Embd,23,Valais / Wallis,3,Rural
+219,Elsau,1,Zürich,1,Urban
+6625,Hermance,25,Genève,2,Intermediate
+6084,Hérémence,23,Valais / Wallis,3,Rural
+1507,Hergiswil (NW),7,Nidwalden,2,Intermediate
+151,Erlenbach (ZH),1,Zürich,1,Urban
+3001,Herisau,15,Appenzell Ausserrhoden,1,Urban
+6104,Ergisch,23,Valais / Wallis,3,Rural
+2574,Eppenberg-Wöschnau,11,Solothurn,1,Urban
+152,Herrliberg,1,Zürich,1,Urban
+4106,Mönthal,19,Aargau,3,Rural
+6153,Monthey,23,Valais / Wallis,1,Urban
+4277,Moosleerau,19,Aargau,3,Rural
+5257,Morbio Inferiore,21,Ticino,1,Urban
+5203,Morcote,21,Ticino,3,Rural
+4279,Murgenthal,19,Aargau,3,Rural
+4107,Mülligen,19,Aargau,2,Intermediate
+4255,Mumpf,19,Aargau,1,Urban
+4172,Münchwilen (AG),19,Aargau,1,Urban
+4235,Mühlau,19,Aargau,3,Rural
+2274,Muntelier,10,Fribourg / Freiburg,1,Urban
+1367,Muotathal,5,Schwyz,2,Intermediate
+4203,Möriken-Wildegg,19,Aargau,1,Urban
+2143,Morlon,10,Fribourg / Freiburg,1,Urban
+1366,Morschach,5,Schwyz,3,Rural
+4009,Muhen,19,Aargau,1,Urban
+4033,Mellingen,19,Aargau,2,Intermediate
+2620,Meltingen,11,Solothurn,2,Intermediate
+5198,Melide,21,Ticino,2,Intermediate
+1704,Menzingen,9,Zug,2,Intermediate
+5117,Mergoscia,21,Ticino,3,Rural
+2936,Merishausen,14,Schaffhausen,3,Rural
+4314,Mellikon,19,Aargau,3,Rural
+156,Meilen,1,Zürich,1,Urban
+6629,Meinier,25,Genève,1,Urban
+4202,Meisterschwanden,19,Aargau,3,Rural
+196,Mönchaltorf,1,Zürich,2,Intermediate
+4254,Möhlin,19,Aargau,1,Urban
+6630,Meyrin,25,Genève,1,Urban
+9,Mettmenstetten,1,Zürich,2,Intermediate
+5118,Minusio,21,Ticino,1,Urban
+2271,Meyriez,10,Fribourg / Freiburg,1,Urban
+4236,Muri (AG),19,Aargau,2,Intermediate
+5199,Mezzovico-Vira,21,Ticino,2,Intermediate
+4237,Oberrüti,19,Aargau,3,Rural
+93,Oberweningen,1,Zürich,2,Intermediate
+4073,Oberlunkhofen,19,Aargau,2,Intermediate
+4037,Oberrohrdorf,19,Aargau,1,Urban
+4140,Oberkulm,19,Aargau,3,Rural
+4038,Obersiggenthal,19,Aargau,1,Urban
+137,Oberrieden,1,Zürich,1,Urban
+2497,Obergösgen,11,Solothurn,1,Urban
+5120,Muralto,21,Ticino,1,Urban
+6112,Oberems,23,Valais / Wallis,3,Rural
+4010,Oberentfelden,19,Aargau,1,Urban
+4256,Obermumpf,19,Aargau,3,Rural
+92,Oberglatt,1,Zürich,1,Urban
+2972,Oberhallau,14,Schaffhausen,3,Rural
+4173,Oberhof,19,Aargau,3,Rural
+1368,Oberiberg,5,Schwyz,3,Rural
+66,Opfikon,1,Zürich,1,Urban
+6631,Onex,25,Genève,1,Urban
+2581,Olten,11,Solothurn,1,Urban
+5208,Origlio,21,Ticino,2,Intermediate
+4280,Oftringen,19,Aargau,1,Urban
+10,Obfelden,1,Zürich,2,Intermediate
+157,Oetwil am See,1,Zürich,2,Intermediate
+2553,Oberdorf (SO),11,Solothurn,1,Urban
+4257,Olsberg,19,Aargau,3,Rural
+4175,Oeschgen,19,Aargau,1,Urban
+6198,Niedergesteln,23,Valais / Wallis,2,Intermediate
+4034,Neuenhof,19,Aargau,1,Urban
+1705,Neuheim,9,Zug,2,Intermediate
+6024,Nendaz,23,Valais / Wallis,2,Intermediate
+2904,Neunkirch,14,Schaffhausen,2,Intermediate
+2211,Neyruz (FR),10,Fribourg / Freiburg,2,Intermediate
+65,Oberembrach,1,Zürich,3,Rural
+2937,Neuhausen am Rheinfall,14,Schaffhausen,1,Urban
+5205,Muzzano,21,Ticino,1,Urban
+89,Niederglatt,1,Zürich,1,Urban
+88,Neerach,1,Zürich,2,Intermediate
+5206,Neggio,21,Ticino,1,Urban
+5260,Novazzano,21,Ticino,1,Urban
+2478,Nuglar-St. Pantaleon,11,Solothurn,3,Rural
+2621,Nunningen,11,Solothurn,2,Intermediate
+2035,Nuvilly,10,Fribourg / Freiburg,3,Rural
+1706,Oberägeri,9,Zug,1,Urban
+1508,Oberdorf (NW),7,Nidwalden,1,Urban
+2495,Niedergösgen,11,Solothurn,1,Urban
+90,Niederhasli,1,Zürich,1,Urban
+4204,Niederlenz,19,Aargau,1,Urban
+4035,Niederrohrdorf,19,Aargau,1,Urban
+91,Niederweningen,1,Zürich,2,Intermediate
+4072,Niederwil (AG),19,Aargau,2,Intermediate
+2149,La Roche,10,Fribourg / Freiburg,3,Rural
+6627,Laconnex,25,Genève,3,Rural
+154,Küsnacht (ZH),1,Zürich,1,Urban
+4008,Küttigen,19,Aargau,1,Urban
+6286,Lalden,23,Valais / Wallis,1,Urban
+6623,Le Grand-Saconnex,25,Genève,1,Urban
+1344,Lachen,5,Schwyz,1,Urban
+6061,Lax,23,Valais / Wallis,3,Rural
+2067,Le Châtelard,10,Fribourg / Freiburg,3,Rural
+2145,Le Pâquier (FR),10,Fribourg / Freiburg,3,Rural
+195,Maur,1,Zürich,2,Intermediate
+5189,Lamone,21,Ticino,1,Urban
+6628,Lancy,25,Genève,1,Urban
+2550,Langendorf,11,Solothurn,1,Urban
+1365,Lauerz,5,Schwyz,3,Rural
+34,Laufen-Uhwiesen,1,Zürich,2,Intermediate
+136,Langnau am Albis,1,Zürich,1,Urban
+4233,Kallern,19,Aargau,3,Rural
+6626,Jussy,25,Genève,3,Rural
+4252,Kaiseraugst,19,Aargau,1,Urban
+4071,Jonen,19,Aargau,2,Intermediate
+2549,Kammersrohr,11,Solothurn,3,Rural
+2580,Kappel (SO),11,Solothurn,1,Urban
+4031,Künten,19,Aargau,2,Intermediate
+6109,Inden,23,Valais / Wallis,3,Rural
+1364,Ingenbohl,5,Schwyz,2,Intermediate
+1343,Innerthal,5,Schwyz,3,Rural
+1211,Isenthal,4,Uri,3,Rural
+6134,Isérables,23,Valais / Wallis,3,Rural
+5009,Isone,21,Ticino,3,Rural
+2138,Jaun,10,Fribourg / Freiburg,3,Rural
+6,Kappel am Albis,1,Zürich,3,Rural
+4309,Klingnau,19,Aargau,1,Urban
+7,Knonau,1,Zürich,2,Intermediate
+4276,Kölliken,19,Aargau,2,Intermediate
+4310,Koblenz,19,Aargau,2,Intermediate
+6197,Kippel,23,Valais / Wallis,3,Rural
+1404,Kerns,6,Obwalden,3,Rural
+2265,Kerzers,10,Fribourg / Freiburg,2,Intermediate
+2492,Kienberg,11,Solothurn,3,Rural
+2619,Kleinlützel,11,Solothurn,3,Rural
+4030,Killwangen,19,Aargau,1,Urban
+4311,Leibstadt,19,Aargau,3,Rural
+4275,Kirchleerau,19,Aargau,2,Intermediate
+33,Kleinandelfingen,1,Zürich,2,Intermediate
+2266,Kleinbösingen,10,Fribourg / Freiburg,2,Intermediate
+135,Kilchberg (ZH),1,Zürich,1,Urban
+3033,Lutzenberg,15,Appenzell Ausserrhoden,2,Intermediate
+4253,Magden,19,Aargau,2,Intermediate
+4032,Mägenwil,19,Aargau,2,Intermediate
+5193,Magliaso,21,Ticino,2,Intermediate
+1405,Lungern,6,Obwalden,3,Rural
+63,Lufingen,1,Zürich,2,Intermediate
+5010,Lumino,21,Ticino,2,Intermediate
+2086,Massonnens,10,Fribourg / Freiburg,3,Rural
+8,Maschwanden,1,Zürich,3,Rural
+6215,Massongex,23,Valais / Wallis,2,Intermediate
+35,Marthalen,1,Zürich,2,Intermediate
+2208,Matran,10,Fribourg / Freiburg,2,Intermediate
+5196,Massagno,21,Ticino,1,Urban
+4105,Mandach,19,Aargau,3,Rural
+155,Männedorf,1,Zürich,1,Urban
+6137,Martigny-Combe,23,Valais / Wallis,1,Urban
+5194,Manno,21,Ticino,1,Urban
+6135,Leytron,23,Valais / Wallis,2,Intermediate
+4313,Leuggern,19,Aargau,3,Rural
+6111,Leukerbad,23,Valais / Wallis,2,Intermediate
+4138,Leutwil,19,Aargau,3,Rural
+4201,Lenzburg,19,Aargau,1,Urban
+4137,Leimbach (AG),19,Aargau,2,Intermediate
+4312,Lengnau (AG),19,Aargau,2,Intermediate
+6033,Liddes,23,Valais / Wallis,3,Rural
+6240,Lens,23,Valais / Wallis,3,Rural
+2917,Lohn (SH),14,Schaffhausen,3,Rural
+2903,Löhningen,14,Schaffhausen,3,Rural
+2551,Lommiswil,11,Solothurn,3,Rural
+5115,Losone,21,Ticino,1,Urban
+2493,Lostorf,11,Solothurn,2,Intermediate
+5315,Linescio,21,Ticino,3,Rural
+176,Lindau,1,Zürich,2,Intermediate
+5113,Locarno,21,Ticino,1,Urban
+4075,Rudolfstetten-Friedlisberg,19,Aargau,1,Urban
+178,Russikon,1,Zürich,2,Intermediate
+139,Rüschlikon,1,Zürich,1,Urban
+4206,Rupperswil,19,Aargau,2,Intermediate
+97,Rümlang,1,Zürich,2,Intermediate
+4112,Rüfenach,19,Aargau,2,Intermediate
+2938,Rüdlingen,14,Schaffhausen,3,Rural
+4238,Rottenschwil,19,Aargau,3,Rural
+4282,Rothrist,19,Aargau,1,Urban
+1370,Rothenthurm,5,Schwyz,3,Rural
+6246,Saint-Léonard,23,Valais / Wallis,2,Intermediate
+1406,Sachseln,6,Obwalden,2,Intermediate
+6155,Saint-Gingolph,23,Valais / Wallis,3,Rural
+6140,Saillon,23,Valais / Wallis,2,Intermediate
+6637,Russin,25,Genève,3,Rural
+4283,Safenwil,19,Aargau,2,Intermediate
+2555,Rüttenen,11,Solothurn,2,Intermediate
+118,Rüti (ZH),1,Zürich,1,Urban
+225,Rickenbach (ZH),1,Zürich,2,Intermediate
+4111,Riniken,19,Aargau,2,Intermediate
+12,Rifferswil,1,Zürich,3,Rural
+1369,Riemenstalden,5,Schwyz,3,Rural
+2703,Riehen,12,Basel-Stadt,1,Urban
+5263,Riva San Vitale,21,Ticino,2,Intermediate
+2582,Rickenbach (SO),11,Solothurn,1,Urban
+138,Richterswil,1,Zürich,1,Urban
+2148,Riaz,10,Fribourg / Freiburg,1,Urban
+4258,Rheinfelden,19,Aargau,1,Urban
+38,Rheinau,1,Zürich,3,Rural
+3035,Reute (AR),15,Appenzell Ausserrhoden,3,Rural
+6139,Riddes,23,Valais / Wallis,2,Intermediate
+68,Rorbas,1,Zürich,1,Urban
+5125,Ronco sopra Ascona,21,Ticino,3,Rural
+1707,Risch,9,Zug,1,Urban
+2479,Rodersdorf,11,Solothurn,3,Rural
+4208,Seengen,19,Aargau,3,Rural
+1215,Seelisberg,4,Uri,3,Rural
+119,Seegräben,1,Zürich,2,Intermediate
+1372,Schwyz,5,Schwyz,1,Urban
+197,Schwerzenbach,1,Zürich,1,Urban
+3004,Schwellbrunn,15,Appenzell Ausserrhoden,3,Rural
+4176,Schwaderloch,19,Aargau,3,Rural
+4259,Schupfart,19,Aargau,3,Rural
+1346,Schübelbach,5,Schwyz,1,Urban
+2583,Schönenwerd,11,Solothurn,1,Urban
+3003,Schönengrund,15,Appenzell Ausserrhoden,3,Rural
+227,Seuzach,1,Zürich,2,Intermediate
+4177,Sisseln,19,Aargau,2,Intermediate
+1217,Sisikon,4,Uri,3,Rural
+4239,Sins,19,Aargau,2,Intermediate
+6009,Simplon,23,Valais / Wallis,3,Rural
+1216,Silenen,4,Uri,3,Rural
+4319,Siglistorf,19,Aargau,3,Rural
+2953,Siblingen,14,Schaffhausen,3,Rural
+2480,Seewen,11,Solothurn,3,Rural
+2043,Sévaz,10,Fribourg / Freiburg,3,Rural
+4209,Seon,19,Aargau,2,Intermediate
+6035,Sembrancher,23,Valais / Wallis,3,Rural
+2556,Selzach,11,Solothurn,2,Intermediate
+4144,Schöftland,19,Aargau,1,Urban
+1407,Sarnen,6,Obwalden,1,Urban
+4076,Sarmenstorf,19,Aargau,3,Rural
+5017,Sant'Antonino,21,Ticino,2,Intermediate
+6218,Salvan,23,Valais / Wallis,3,Rural
+1371,Sattel,5,Schwyz,3,Rural
+6087,Saint-Martin (VS),23,Valais / Wallis,3,Rural
+6113,Salgesch,23,Valais / Wallis,2,Intermediate
+99,Schöfflisdorf,1,Zürich,2,Intermediate
+2461,Schnottwil,11,Solothurn,3,Rural
+4318,Schneisingen,19,Aargau,2,Intermediate
+2305,Schmitten (FR),10,Fribourg / Freiburg,2,Intermediate
+4143,Schmiedrued,19,Aargau,3,Rural
+4142,Schlossrued,19,Aargau,3,Rural
+2952,Schleitheim,14,Schaffhausen,3,Rural
+98,Schleinikon,1,Zürich,2,Intermediate
+6638,Satigny,25,Genève,2,Intermediate
+1213,Schattdorf,4,Uri,1,Urban
+4207,Schafisheim,19,Aargau,2,Intermediate
+6141,Saxon,23,Valais / Wallis,2,Intermediate
+5221,Savosa,21,Ticino,1,Urban
+6265,Savièse,23,Valais / Wallis,1,Urban
+5214,Porza,21,Ticino,1,Urban
+6154,Port-Valais,23,Valais / Wallis,3,Rural
+2147,Pont-la-Ville,10,Fribourg / Freiburg,3,Rural
+5077,Pollegio,21,Ticino,2,Intermediate
+67,Rafz,1,Zürich,2,Intermediate
+5216,Pura,21,Ticino,2,Intermediate
+6636,Puplinge,25,Genève,1,Urban
+2038,Prévondavaux,10,Fribourg / Freiburg,3,Rural
+6635,Presinge,25,Genève,3,Rural
+6634,Pregny-Chambésy,25,Genève,1,Urban
+4205,Othmarsingen,19,Aargau,2,Intermediate
+6633,Plan-les-Ouates,25,Genève,1,Urban
+5210,Paradiso,21,Ticino,1,Urban
+11,Ottenbach,1,Zürich,2,Intermediate
+94,Otelfingen,1,Zürich,2,Intermediate
+37,Ossingen,1,Zürich,3,Rural
+6034,Orsières,23,Valais / Wallis,3,Rural
+5121,Orselina,21,Ticino,1,Urban
+177,Pfäffikon,1,Zürich,1,Urban
+5212,Ponte Capriasca,21,Ticino,2,Intermediate
+2216,Pierrafortscha,10,Fribourg / Freiburg,3,Rural
+224,Pfungen,1,Zürich,2,Intermediate
+5076,Personico,21,Ticino,3,Rural
+6632,Perly-Certoux,25,Genève,1,Urban
+4110,Remigen,19,Aargau,3,Rural
+6199,Raron,23,Valais / Wallis,2,Intermediate
+4039,Remetschwil,19,Aargau,1,Urban
+1212,Realp,4,Uri,3,Rural
+95,Regensberg,1,Zürich,2,Intermediate
+96,Regensdorf,1,Zürich,1,Urban
+3034,Rehetobel,15,Appenzell Ausserrhoden,3,Rural
+2963,Ramsen,14,Schaffhausen,3,Rural
+2333,Remaufens,10,Fribourg / Freiburg,2,Intermediate
+4141,Reinach (AG),19,Aargau,1,Urban
+2301,Rechthalten,10,Fribourg / Freiburg,3,Rural
+6287,Randa,23,Valais / Wallis,3,Rural
+1345,Reichenburg,5,Schwyz,2,Intermediate
+2455,Lüterkofen-Ichertswil,11,Solothurn,2,Intermediate
+2295,Bösingen,10,Fribourg / Freiburg,2,Intermediate
+2336,Semsales,10,Fribourg / Freiburg,3,Rural
+2300,Plasselb,10,Fribourg / Freiburg,3,Rural
+6297,Visp,23,Valais / Wallis,1,Urban
+6248,Sierre,23,Valais / Wallis,1,Urban
+6002,Brig-Glis,23,Valais / Wallis,1,Urban
+2576,Gretzenbach,11,Solothurn,1,Urban
+2309,Wünnewil-Flamatt,10,Fribourg / Freiburg,2,Intermediate
+2206,Marly,10,Fribourg / Freiburg,2,Intermediate
+200,Wangen-Brüttisellen,1,Zürich,1,Urban
+5250,Chiasso,21,Ticino,1,Urban
+14,Wettswil am Albis,1,Zürich,2,Intermediate
+1,Aeugst am Albis,1,Zürich,3,Rural
+159,Uetikon am See,1,Zürich,1,Urban
+6702,Boécourt,26,Jura,3,Rural
+6703,Bourrignon,26,Jura,3,Rural
+6704,Châtillon (JU),26,Jura,3,Rural
+6706,Courchapoix,26,Jura,3,Rural
+6709,Courroux,26,Jura,1,Urban
+6710,Courtételle,26,Jura,2,Intermediate
+6711,Delémont,26,Jura,1,Urban
+6712,Develier,26,Jura,3,Rural
+6713,Ederswiler,26,Jura,3,Rural
+6715,Mervelier,26,Jura,3,Rural
+6718,Movelier,26,Jura,3,Rural
+6719,Pleigne,26,Jura,3,Rural
+6721,Rossemaison,26,Jura,1,Urban
+6722,Saulcy,26,Jura,3,Rural
+6724,Soyhières,26,Jura,3,Rural
+6741,Le Bémont (JU),26,Jura,3,Rural
+6742,Les Bois,26,Jura,3,Rural
+6745,Les Enfers,26,Jura,3,Rural
+6748,Les Genevez (JU),26,Jura,3,Rural
+6750,Lajoux (JU),26,Jura,3,Rural
+6754,Le Noirmont,26,Jura,2,Intermediate
+6758,Saint-Brais,26,Jura,3,Rural
+6759,Soubey,26,Jura,3,Rural
+6771,Alle,26,Jura,3,Rural
+6774,Boncourt,26,Jura,3,Rural
+6778,Bure,26,Jura,3,Rural
+6781,Coeuve,26,Jura,3,Rural
+6782,Cornol,26,Jura,3,Rural
+6783,Courchavon,26,Jura,3,Rural
+6784,Courgenay,26,Jura,3,Rural
+6785,Courtedoux,26,Jura,3,Rural
+6789,Fahy,26,Jura,3,Rural
+6792,Grandfontaine,26,Jura,3,Rural
+6800,Porrentruy,26,Jura,1,Urban
+6806,Vendlincourt,26,Jura,3,Rural
+2096,Romont (FR),10,Fribourg / Freiburg,2,Intermediate
+4061,Arni (AG),19,Aargau,2,Intermediate
+4084,Islisberg,19,Aargau,3,Rural
+6716,Mettembert,26,Jura,3,Rural
+4074,Oberwil-Lieli,19,Aargau,2,Intermediate
+161,Zollikon,1,Zürich,1,Urban
+2476,Hofstetten-Flüh,11,Solothurn,2,Intermediate
+261,Zürich,1,Zürich,1,Urban
+242,Birmensdorf (ZH),1,Zürich,2,Intermediate
+243,Dietikon,1,Zürich,1,Urban
+244,Geroldswil,1,Zürich,1,Urban
+245,Oberengstringen,1,Zürich,1,Urban
+246,Oetwil an der Limmat,1,Zürich,1,Urban
+247,Schlieren,1,Zürich,1,Urban
+248,Uitikon,1,Zürich,2,Intermediate
+249,Unterengstringen,1,Zürich,1,Urban
+250,Urdorf,1,Zürich,1,Urban
+251,Weiningen (ZH),1,Zürich,1,Urban
+2041,Saint-Aubin (FR),10,Fribourg / Freiburg,3,Rural
+2401,Egerkingen,11,Solothurn,3,Rural
+2402,Härkingen,11,Solothurn,2,Intermediate
+2403,Kestenholz,11,Solothurn,3,Rural
+2405,Niederbuchsiten,11,Solothurn,3,Rural
+2407,Oensingen,11,Solothurn,1,Urban
+2408,Wolfwil,11,Solothurn,3,Rural
+2421,Aedermannsdorf,11,Solothurn,3,Rural
+2422,Balsthal,11,Solothurn,3,Rural
+2424,Herbetswil,11,Solothurn,3,Rural
+2425,Holderbank (SO),11,Solothurn,3,Rural
+2426,Laupersdorf,11,Solothurn,3,Rural
+2427,Matzendorf,11,Solothurn,3,Rural
+2428,Mümliswil-Ramiswil,11,Solothurn,3,Rural
+2513,Biberist,11,Solothurn,1,Urban
+2514,Bolken,11,Solothurn,2,Intermediate
+2516,Deitingen,11,Solothurn,2,Intermediate
+2517,Derendingen,11,Solothurn,1,Urban
+2518,Etziken,11,Solothurn,2,Intermediate
+2519,Gerlafingen,11,Solothurn,1,Urban
+2523,Horriwil,11,Solothurn,2,Intermediate
+2524,Hüniken,11,Solothurn,2,Intermediate
+2527,Luterbach,11,Solothurn,2,Intermediate
+2528,Obergerlafingen,11,Solothurn,2,Intermediate
+2530,Recherswil,11,Solothurn,2,Intermediate
+2532,Subingen,11,Solothurn,1,Urban
+2534,Zuchwil,11,Solothurn,1,Urban
+2526,Lohn-Ammannsegg,11,Solothurn,2,Intermediate
+6008,Ried-Brig,23,Valais / Wallis,2,Intermediate
+2821,Arisdorf,13,Basel-Landschaft,2,Intermediate
+2822,Augst,13,Basel-Landschaft,1,Urban
+2823,Bubendorf,13,Basel-Landschaft,2,Intermediate
+2824,Frenkendorf,13,Basel-Landschaft,1,Urban
+2825,Füllinsdorf,13,Basel-Landschaft,1,Urban
+2826,Giebenach,13,Basel-Landschaft,3,Rural
+2827,Hersberg,13,Basel-Landschaft,3,Rural
+2828,Lausen,13,Basel-Landschaft,1,Urban
+2829,Liestal,13,Basel-Landschaft,1,Urban
+2830,Lupsingen,13,Basel-Landschaft,3,Rural
+2831,Pratteln,13,Basel-Landschaft,1,Urban
+2832,Ramlinsburg,13,Basel-Landschaft,3,Rural
+2833,Seltisberg,13,Basel-Landschaft,2,Intermediate
+2834,Ziefen,13,Basel-Landschaft,3,Rural
+2841,Anwil,13,Basel-Landschaft,3,Rural
+2842,Böckten,13,Basel-Landschaft,2,Intermediate
+2843,Buckten,13,Basel-Landschaft,3,Rural
+2844,Buus,13,Basel-Landschaft,3,Rural
+2845,Diepflingen,13,Basel-Landschaft,2,Intermediate
+2846,Gelterkinden,13,Basel-Landschaft,2,Intermediate
+2847,Häfelfingen,13,Basel-Landschaft,3,Rural
+2848,Hemmiken,13,Basel-Landschaft,3,Rural
+2849,Itingen,13,Basel-Landschaft,1,Urban
+2850,Känerkinden,13,Basel-Landschaft,3,Rural
+2851,Kilchberg (BL),13,Basel-Landschaft,3,Rural
+2852,Läufelfingen,13,Basel-Landschaft,3,Rural
+2853,Maisprach,13,Basel-Landschaft,3,Rural
+2854,Nusshof,13,Basel-Landschaft,3,Rural
+2855,Oltingen,13,Basel-Landschaft,3,Rural
+2856,Ormalingen,13,Basel-Landschaft,2,Intermediate
+2857,Rickenbach (BL),13,Basel-Landschaft,3,Rural
+2858,Rothenfluh,13,Basel-Landschaft,3,Rural
+2859,Rümlingen,13,Basel-Landschaft,3,Rural
+2860,Rünenberg,13,Basel-Landschaft,3,Rural
+2861,Sissach,13,Basel-Landschaft,2,Intermediate
+2862,Tecknau,13,Basel-Landschaft,3,Rural
+2863,Tenniken,13,Basel-Landschaft,3,Rural
+2864,Thürnen,13,Basel-Landschaft,2,Intermediate
+2865,Wenslingen,13,Basel-Landschaft,3,Rural
+2866,Wintersingen,13,Basel-Landschaft,3,Rural
+2867,Wittinsburg,13,Basel-Landschaft,3,Rural
+2868,Zeglingen,13,Basel-Landschaft,3,Rural
+2869,Zunzgen,13,Basel-Landschaft,2,Intermediate
+2881,Arboldswil,13,Basel-Landschaft,3,Rural
+2882,Bennwil,13,Basel-Landschaft,3,Rural
+2883,Bretzwil,13,Basel-Landschaft,3,Rural
+2884,Diegten,13,Basel-Landschaft,3,Rural
+2885,Eptingen,13,Basel-Landschaft,3,Rural
+2886,Hölstein,13,Basel-Landschaft,2,Intermediate
+2887,Lampenberg,13,Basel-Landschaft,2,Intermediate
+2888,Langenbruck,13,Basel-Landschaft,3,Rural
+2889,Lauwil,13,Basel-Landschaft,3,Rural
+2890,Liedertswil,13,Basel-Landschaft,3,Rural
+2891,Niederdorf,13,Basel-Landschaft,2,Intermediate
+2892,Oberdorf (BL),13,Basel-Landschaft,2,Intermediate
+2893,Reigoldswil,13,Basel-Landschaft,3,Rural
+2894,Titterten,13,Basel-Landschaft,3,Rural
+2895,Waldenburg,13,Basel-Landschaft,2,Intermediate
+2761,Aesch (BL),13,Basel-Landschaft,1,Urban
+2762,Allschwil,13,Basel-Landschaft,1,Urban
+2763,Arlesheim,13,Basel-Landschaft,1,Urban
+2764,Biel-Benken,13,Basel-Landschaft,1,Urban
+2765,Binningen,13,Basel-Landschaft,1,Urban
+2766,Birsfelden,13,Basel-Landschaft,1,Urban
+2767,Bottmingen,13,Basel-Landschaft,1,Urban
+2768,Ettingen,13,Basel-Landschaft,2,Intermediate
+2769,Münchenstein,13,Basel-Landschaft,1,Urban
+2770,Muttenz,13,Basel-Landschaft,1,Urban
+2771,Oberwil (BL),13,Basel-Landschaft,1,Urban
+2772,Pfeffingen,13,Basel-Landschaft,1,Urban
+2773,Reinach (BL),13,Basel-Landschaft,1,Urban
+2774,Schönenbuch,13,Basel-Landschaft,2,Intermediate
+2775,Therwil,13,Basel-Landschaft,1,Urban
+2781,Blauen,13,Basel-Landschaft,3,Rural
+2782,Brislach,13,Basel-Landschaft,2,Intermediate
+2783,Burg im Leimental,13,Basel-Landschaft,3,Rural
+2784,Dittingen,13,Basel-Landschaft,2,Intermediate
+2785,Duggingen,13,Basel-Landschaft,2,Intermediate
+2786,Grellingen,13,Basel-Landschaft,2,Intermediate
+2787,Laufen,13,Basel-Landschaft,2,Intermediate
+2788,Liesberg,13,Basel-Landschaft,3,Rural
+2789,Nenzlingen,13,Basel-Landschaft,3,Rural
+2790,Roggenburg,13,Basel-Landschaft,3,Rural
+2791,Röschenz,13,Basel-Landschaft,2,Intermediate
+2792,Wahlen,13,Basel-Landschaft,2,Intermediate
+2793,Zwingen,13,Basel-Landschaft,2,Intermediate
+2272,Misery-Courtion,10,Fribourg / Freiburg,3,Rural
+3101,Appenzell,16,Appenzell Innerrhoden,1,Urban
+3102,Gonten,16,Appenzell Innerrhoden,3,Rural
+3104,Schlatt-Haslen,16,Appenzell Innerrhoden,3,Rural
+3111,Oberegg,16,Appenzell Innerrhoden,3,Rural
+2063,Billens-Hennens,10,Fribourg / Freiburg,3,Rural
+226,Schlatt (ZH),1,Zürich,3,Rural
+6117,Guttet-Feschel,23,Valais / Wallis,3,Rural
+2140,Marsens,10,Fribourg / Freiburg,2,Intermediate
+2234,La Brillaz,10,Fribourg / Freiburg,3,Rural
+2114,Villorsonnens,10,Fribourg / Freiburg,3,Rural
+2152,Sâles,10,Fribourg / Freiburg,3,Rural
+2233,Hauterive (FR),10,Fribourg / Freiburg,2,Intermediate
+2174,Avry,10,Fribourg / Freiburg,2,Intermediate
+4289,Zofingen,19,Aargau,1,Urban
+2121,Haut-Intyamon,10,Fribourg / Freiburg,3,Rural
+241,Aesch (ZH),1,Zürich,3,Rural
+2122,Pont-en-Ogoz,10,Fribourg / Freiburg,3,Rural
+2220,Le Mouret,10,Fribourg / Freiburg,2,Intermediate
+4100,Hausen (AG),19,Aargau,1,Urban
+3201,Häggenschwil,17,St. Gallen,3,Rural
+3202,Muolen,17,St. Gallen,3,Rural
+3203,St. Gallen,17,St. Gallen,1,Urban
+3204,Wittenbach,17,St. Gallen,1,Urban
+3211,Berg (SG),17,St. Gallen,2,Intermediate
+3212,Eggersriet,17,St. Gallen,3,Rural
+3213,Goldach,17,St. Gallen,1,Urban
+3214,Mörschwil,17,St. Gallen,2,Intermediate
+3215,Rorschach,17,St. Gallen,1,Urban
+3216,Rorschacherberg,17,St. Gallen,1,Urban
+3217,Steinach,17,St. Gallen,1,Urban
+3218,Tübach,17,St. Gallen,1,Urban
+3219,Untereggen,17,St. Gallen,3,Rural
+3231,Au (SG),17,St. Gallen,1,Urban
+3232,Balgach,17,St. Gallen,1,Urban
+3233,Berneck,17,St. Gallen,1,Urban
+3234,Diepoldsau,17,St. Gallen,1,Urban
+3235,Rheineck,17,St. Gallen,2,Intermediate
+3236,St. Margrethen,17,St. Gallen,1,Urban
+3237,Thal,17,St. Gallen,1,Urban
+3238,Widnau,17,St. Gallen,1,Urban
+3251,Altstätten,17,St. Gallen,1,Urban
+3252,Eichberg,17,St. Gallen,3,Rural
+3253,Marbach (SG),17,St. Gallen,1,Urban
+3254,Oberriet (SG),17,St. Gallen,2,Intermediate
+3255,Rebstein,17,St. Gallen,1,Urban
+3256,Rüthi (SG),17,St. Gallen,3,Rural
+3271,Buchs (SG),17,St. Gallen,1,Urban
+3272,Gams,17,St. Gallen,2,Intermediate
+3273,Grabs,17,St. Gallen,1,Urban
+3274,Sennwald,17,St. Gallen,3,Rural
+3275,Sevelen,17,St. Gallen,2,Intermediate
+3276,Wartau,17,St. Gallen,3,Rural
+3291,Bad Ragaz,17,St. Gallen,2,Intermediate
+3292,Flums,17,St. Gallen,2,Intermediate
+3293,Mels,17,St. Gallen,1,Urban
+3294,Pfäfers,17,St. Gallen,3,Rural
+3295,Quarten,17,St. Gallen,3,Rural
+3296,Sargans,17,St. Gallen,1,Urban
+3297,Vilters-Wangs,17,St. Gallen,1,Urban
+3298,Walenstadt,17,St. Gallen,2,Intermediate
+3311,Amden,17,St. Gallen,3,Rural
+3312,Benken (SG),17,St. Gallen,3,Rural
+3313,Kaltbrunn,17,St. Gallen,1,Urban
+3315,Schänis,17,St. Gallen,2,Intermediate
+3316,Weesen,17,St. Gallen,2,Intermediate
+3338,Schmerikon,17,St. Gallen,1,Urban
+3339,Uznach,17,St. Gallen,1,Urban
+3352,Ebnat-Kappel,17,St. Gallen,2,Intermediate
+3374,Lichtensteig,17,St. Gallen,1,Urban
+3392,Kirchberg (SG),17,St. Gallen,2,Intermediate
+3393,Lütisburg,17,St. Gallen,3,Rural
+3394,Mosnang,17,St. Gallen,3,Rural
+3401,Degersheim,17,St. Gallen,2,Intermediate
+3402,Flawil,17,St. Gallen,2,Intermediate
+3405,Jonschwil,17,St. Gallen,2,Intermediate
+3407,Oberuzwil,17,St. Gallen,1,Urban
+3408,Uzwil,17,St. Gallen,1,Urban
+3422,Niederbüren,17,St. Gallen,3,Rural
+3423,Niederhelfenschwil,17,St. Gallen,3,Rural
+3424,Oberbüren,17,St. Gallen,1,Urban
+3426,Zuzwil (SG),17,St. Gallen,2,Intermediate
+3441,Andwil (SG),17,St. Gallen,2,Intermediate
+3442,Gaiserwald,17,St. Gallen,1,Urban
+3443,Gossau (SG),17,St. Gallen,1,Urban
+3444,Waldkirch,17,St. Gallen,2,Intermediate
+6181,Riederalp,23,Valais / Wallis,3,Rural
+2477,Metzerlen-Mariastein,11,Solothurn,3,Rural
+1331,Küssnacht (SZ),5,Schwyz,1,Urban
+2050,Les Montets,10,Fribourg / Freiburg,3,Rural
+2029,Montagny (FR),10,Fribourg / Freiburg,3,Rural
+2087,Mézières (FR),10,Fribourg / Freiburg,3,Rural
+2099,Siviriez,10,Fribourg / Freiburg,3,Rural
+2115,Torny,10,Fribourg / Freiburg,3,Rural
+2162,Bas-Intyamon,10,Fribourg / Freiburg,3,Rural
+2113,Vuisternens-devant-Romont,10,Fribourg / Freiburg,3,Rural
+2235,La Sonnaz,10,Fribourg / Freiburg,2,Intermediate
+2337,Le Flon,10,Fribourg / Freiburg,3,Rural
+2338,La Verrerie,10,Fribourg / Freiburg,3,Rural
+2335,Saint-Martin (FR),10,Fribourg / Freiburg,3,Rural
+5048,Acquarossa,21,Ticino,3,Rural
+5317,Maggia,21,Ticino,3,Rural
+5323,Lavizzara,21,Ticino,3,Rural
+5249,Castel San Pietro,21,Ticino,1,Urban
+6056,Ernen,23,Valais / Wallis,3,Rural
+2011,Cugy (FR),10,Fribourg / Freiburg,3,Rural
+2051,Delley-Portalban,10,Fribourg / Freiburg,3,Rural
+2974,Wilchingen,14,Schaffhausen,3,Rural
+5003,Cadenazzo,21,Ticino,2,Intermediate
+5237,Alto Malcantone,21,Ticino,3,Rural
+2025,Lully (FR),10,Fribourg / Freiburg,3,Rural
+2125,Bulle,10,Fribourg / Freiburg,1,Urban
+2276,Ried bei Kerzers,10,Fribourg / Freiburg,3,Rural
+2123,Botterens,10,Fribourg / Freiburg,3,Rural
+2503,Erlinsbach (SO),11,Solothurn,1,Urban
+4005,Erlinsbach (AG),19,Aargau,1,Urban
+4049,Ehrendingen,19,Aargau,2,Intermediate
+4121,Villigen,19,Aargau,2,Intermediate
+5401,Aigle,22,Vaud,1,Urban
+5402,Bex,22,Vaud,2,Intermediate
+5830,Villarzel,22,Vaud,3,Rural
+5928,Rovray,22,Vaud,3,Rural
+5790,Maracon,22,Vaud,3,Rural
+5456,Cudrefin,22,Vaud,3,Rural
+5487,Lussery-Villars,22,Vaud,3,Rural
+5761,Romainmôtier-Envy,22,Vaud,3,Rural
+5886,Montreux,22,Vaud,1,Urban
+5512,Bercher,22,Vaud,2,Intermediate
+5760,Rances,22,Vaud,3,Rural
+5495,Penthalaz,22,Vaud,2,Intermediate
+5496,Penthaz,22,Vaud,2,Intermediate
+5531,Penthéréaz,22,Vaud,3,Rural
+5860,Perroy,22,Vaud,2,Intermediate
+5822,Payerne,22,Vaud,1,Urban
+5529,Oulens-sous-Echallens,22,Vaud,3,Rural
+5925,Orzens,22,Vaud,3,Rural
+5530,Pailly,22,Vaud,3,Rural
+5588,Paudex,22,Vaud,1,Urban
+5759,Premier,22,Vaud,3,Rural
+5643,Préverenges,22,Vaud,1,Urban
+5683,Prévonloup,22,Vaud,3,Rural
+5566,Provence,22,Vaud,3,Rural
+5607,Puidoux,22,Vaud,2,Intermediate
+5590,Pully,22,Vaud,1,Urban
+5589,Prilly,22,Vaud,1,Urban
+5533,Poliez-Pittet,22,Vaud,3,Rural
+5497,Pompaples,22,Vaud,3,Rural
+5926,Pomy,22,Vaud,3,Rural
+5591,Renens (VD),22,Vaud,1,Urban
+5725,Prangins,22,Vaud,1,Urban
+5437,Saubraz,22,Vaud,2,Intermediate
+5611,Savigny,22,Vaud,3,Rural
+5436,Saint-Oyens,22,Vaud,3,Rural
+5646,Saint-Prex,22,Vaud,2,Intermediate
+5610,Saint-Saphorin (Lavaux),22,Vaud,2,Intermediate
+5648,Saint-Sulpice (VD),22,Vaud,1,Urban
+5568,Sainte-Croix,22,Vaud,2,Intermediate
+5499,Senarclens,22,Vaud,3,Rural
+5762,Sergey,22,Vaud,3,Rural
+5728,Signy-Avenex,22,Vaud,2,Intermediate
+5435,Saint-Livres,22,Vaud,3,Rural
+5609,Rivaz,22,Vaud,2,Intermediate
+5413,Roche (VD),22,Vaud,2,Intermediate
+5861,Rolle,22,Vaud,2,Intermediate
+5592,Romanel-sur-Lausanne,22,Vaud,1,Urban
+5645,Romanel-sur-Morges,22,Vaud,3,Rural
+5798,Ropraz,22,Vaud,3,Rural
+5842,Rossinière,22,Vaud,3,Rural
+5684,Rossenges,22,Vaud,3,Rural
+5535,Saint-Barthélemy (VD),22,Vaud,3,Rural
+5727,Saint-Cergue,22,Vaud,2,Intermediate
+5434,Saint-George,22,Vaud,3,Rural
+5412,Rennaz,22,Vaud,1,Urban
+5564,Novalles,22,Vaud,3,Rural
+5843,Rougemont,22,Vaud,3,Rural
+5534,Rueyres,22,Vaud,2,Intermediate
+5408,Noville,22,Vaud,1,Urban
+5755,Lignerolle,22,Vaud,3,Rural
+5638,Lonay,22,Vaud,1,Urban
+5674,Lovatens,22,Vaud,3,Rural
+5429,Longirod,22,Vaud,3,Rural
+5407,Leysin,22,Vaud,2,Intermediate
+5750,Les Clées,22,Vaud,3,Rural
+5430,Marchissy,22,Vaud,3,Rural
+5562,Mauborget,22,Vaud,3,Rural
+5919,Mathod,22,Vaud,3,Rural
+5639,Lully (VD),22,Vaud,1,Urban
+5640,Lussy-sur-Morges,22,Vaud,2,Intermediate
+5858,Luins,22,Vaud,2,Intermediate
+5731,Le Vaud,22,Vaud,2,Intermediate
+5606,Lutry,22,Vaud,1,Urban
+5885,Jongny,22,Vaud,1,Urban
+5754,Juriens,22,Vaud,3,Rural
+5585,Jouxtens-Mézery,22,Vaud,1,Urban
+5406,Lavey-Morcles,22,Vaud,2,Intermediate
+5872,Le Chenit,22,Vaud,2,Intermediate
+5587,Le Mont-sur-Lausanne,22,Vaud,1,Urban
+5873,Le Lieu,22,Vaud,3,Rural
+5586,Lausanne,22,Vaud,1,Urban
+5637,Lavigny,22,Vaud,2,Intermediate
+5474,La Chaux (Cossonay),22,Vaud,3,Rural
+5486,L'Isle,22,Vaud,3,Rural
+5741,L'Abergement,22,Vaud,3,Rural
+5871,L'Abbaye,22,Vaud,3,Rural
+5758,La Praz,22,Vaud,3,Rural
+5889,La Tour-de-Peilz,22,Vaud,1,Urban
+5498,La Sarraz,22,Vaud,2,Intermediate
+5726,La Rippe,22,Vaud,3,Rural
+5724,Nyon,22,Vaud,1,Urban
+5563,Mutrux,22,Vaud,3,Rural
+5409,Ollon,22,Vaud,2,Intermediate
+5680,Ogens,22,Vaud,3,Rural
+5923,Oppens,22,Vaud,3,Rural
+5493,Orny,22,Vaud,3,Rural
+5411,Ormont-Dessus,22,Vaud,3,Rural
+5410,Ormont-Dessous,22,Vaud,3,Rural
+5924,Orges,22,Vaud,3,Rural
+5565,Onnens (VD),22,Vaud,3,Rural
+5757,Orbe,22,Vaud,2,Intermediate
+5489,Mex (VD),22,Vaud,3,Rural
+5921,Molondin,22,Vaud,3,Rural
+5431,Mollens (VD),22,Vaud,3,Rural
+5723,Mies,22,Vaud,1,Urban
+5490,Moiry,22,Vaud,3,Rural
+5821,Missy,22,Vaud,3,Rural
+5488,Mauraz,22,Vaud,3,Rural
+5678,Moudon,22,Vaud,2,Intermediate
+5491,Mont-la-Ville,22,Vaud,3,Rural
+5527,Morrens (VD),22,Vaud,2,Intermediate
+5756,Montcherand,22,Vaud,3,Rural
+5642,Morges,22,Vaud,1,Urban
+5922,Montagny-près-Yverdon,22,Vaud,1,Urban
+5859,Mont-sur-Rolle,22,Vaud,2,Intermediate
+5492,Montricher,22,Vaud,3,Rural
+5792,Montpreveyres,22,Vaud,3,Rural
+5673,Hermenches,22,Vaud,3,Rural
+5914,Ependes (VD),22,Vaud,3,Rural
+5584,Epalinges,22,Vaud,1,Urban
+5521,Etagnières,22,Vaud,2,Intermediate
+5636,Etoy,22,Vaud,2,Intermediate
+5856,Essertines-sur-Rolle,22,Vaud,3,Rural
+5716,Eysins,22,Vaud,1,Urban
+5819,Henniez,22,Vaud,3,Rural
+5520,Essertines-sur-Yverdon,22,Vaud,3,Rural
+5715,Duillier,22,Vaud,3,Rural
+5855,Dully,22,Vaud,2,Intermediate
+5671,Dompierre (VD),22,Vaud,3,Rural
+5482,Eclépens,22,Vaud,2,Intermediate
+5518,Echallens,22,Vaud,2,Intermediate
+5633,Echandens,22,Vaud,1,Urban
+5635,Ecublens (VD),22,Vaud,1,Urban
+5561,Grandson,22,Vaud,2,Intermediate
+5718,Genolier,22,Vaud,2,Intermediate
+5722,Grens,22,Vaud,2,Intermediate
+5817,Grandcour,22,Vaud,3,Rural
+5428,Gimel,22,Vaud,2,Intermediate
+5719,Gingins,22,Vaud,2,Intermediate
+5560,Grandevent,22,Vaud,3,Rural
+5721,Gland,22,Vaud,1,Urban
+5484,Gollion,22,Vaud,3,Rural
+5720,Givrins,22,Vaud,2,Intermediate
+5485,Grancy,22,Vaud,3,Rural
+5857,Gilly,22,Vaud,2,Intermediate
+5559,Giez,22,Vaud,3,Rural
+5556,Fiez,22,Vaud,3,Rural
+5427,Féchy,22,Vaud,3,Rural
+5522,Fey,22,Vaud,3,Rural
+5483,Ferreyres,22,Vaud,3,Rural
+5405,Gryon,22,Vaud,3,Rural
+5523,Froideville,22,Vaud,2,Intermediate
+5458,Faoug,22,Vaud,3,Rural
+5717,Founex,22,Vaud,1,Urban
+5557,Fontaines-sur-Grandson,22,Vaud,3,Rural
+5604,Forel (Lavaux),22,Vaud,3,Rural
+5471,Bettens,22,Vaud,3,Rural
+5903,Bioley-Magnoux,22,Vaud,3,Rural
+5425,Bière,22,Vaud,3,Rural
+5902,Belmont-sur-Yverdon,22,Vaud,3,Rural
+5581,Belmont-sur-Lausanne,22,Vaud,1,Urban
+5704,Begnins,22,Vaud,2,Intermediate
+5424,Berolle,22,Vaud,3,Rural
+5426,Bougy-Villars,22,Vaud,3,Rural
+5473,Boussens,22,Vaud,3,Rural
+5472,Bournens,22,Vaud,3,Rural
+5661,Boulens,22,Vaud,3,Rural
+5748,Bretonnières,22,Vaud,3,Rural
+5622,Bremblens,22,Vaud,3,Rural
+5514,Bottens,22,Vaud,3,Rural
+5515,Bretigny-sur-Morrens,22,Vaud,2,Intermediate
+5747,Bofflens,22,Vaud,3,Rural
+5706,Borex,22,Vaud,2,Intermediate
+5705,Bogis-Bossey,22,Vaud,1,Urban
+5551,Bonvillars,22,Vaud,2,Intermediate
+5743,Arnex-sur-Orbe,22,Vaud,3,Rural
+5701,Arnex-sur-Nyon,22,Vaud,2,Intermediate
+5621,Aclens,22,Vaud,2,Intermediate
+5851,Allaman,22,Vaud,2,Intermediate
+5742,Agiez,22,Vaud,3,Rural
+5423,Ballens,22,Vaud,3,Rural
+5744,Ballaigues,22,Vaud,3,Rural
+5746,Bavois,22,Vaud,3,Rural
+5745,Baulmes,22,Vaud,3,Rural
+5703,Bassins,22,Vaud,2,Intermediate
+5785,Corcelles-le-Jorat,22,Vaud,3,Rural
+5404,Corbeyrier,22,Vaud,3,Rural
+5712,Coppet,22,Vaud,1,Urban
+5554,Concise,22,Vaud,3,Rural
+5711,Commugny,22,Vaud,1,Urban
+5883,Corseaux,22,Vaud,1,Urban
+5555,Corcelles-près-Concise,22,Vaud,3,Rural
+5816,Corcelles-près-Payerne,22,Vaud,1,Urban
+5601,Chexbres,22,Vaud,2,Intermediate
+5813,Chevroux,22,Vaud,3,Rural
+5403,Chessel,22,Vaud,2,Intermediate
+5709,Chéserex,22,Vaud,2,Intermediate
+5582,Cheseaux-sur-Lausanne,22,Vaud,2,Intermediate
+5909,Cheseaux-Noréaz,22,Vaud,1,Urban
+5476,Chevilly,22,Vaud,3,Rural
+5628,Chigny,22,Vaud,1,Urban
+5629,Clarmont,22,Vaud,3,Rural
+5710,Coinsins,22,Vaud,3,Rural
+5480,Daillens,22,Vaud,3,Rural
+5912,Démoret,22,Vaud,3,Rural
+5669,Curtilles,22,Vaud,3,Rural
+5632,Denges,22,Vaud,1,Urban
+5631,Denens,22,Vaud,2,Intermediate
+5516,Cugy (VD),22,Vaud,1,Urban
+5477,Cossonay,22,Vaud,2,Intermediate
+5911,Cuarny,22,Vaud,3,Rural
+5479,Cuarnens,22,Vaud,3,Rural
+5752,Croy,22,Vaud,3,Rural
+5583,Crissier,22,Vaud,1,Urban
+5884,Corsier-sur-Vevey,22,Vaud,1,Urban
+5714,Crassier,22,Vaud,2,Intermediate
+5910,Cronay,22,Vaud,3,Rural
+5852,Bursinel,22,Vaud,2,Intermediate
+5853,Bursins,22,Vaud,2,Intermediate
+5663,Bussy-sur-Moudon,22,Vaud,3,Rural
+5854,Burtigny,22,Vaud,3,Rural
+5552,Bullet,22,Vaud,3,Rural
+5623,Buchillon,22,Vaud,2,Intermediate
+5841,Château-d'Oex,22,Vaud,2,Intermediate
+5882,Chardonne,22,Vaud,1,Urban
+5553,Champagne,22,Vaud,2,Intermediate
+5812,Champtauroz,22,Vaud,3,Rural
+5475,Chavannes-le-Veyron,22,Vaud,3,Rural
+5481,Dizy,22,Vaud,3,Rural
+5665,Chavannes-sur-Moudon,22,Vaud,3,Rural
+5907,Chavannes-le-Chêne,22,Vaud,3,Rural
+5708,Chavannes-des-Bois,22,Vaud,3,Rural
+5707,Chavannes-de-Bogis,22,Vaud,1,Urban
+5627,Chavannes-près-Renens,22,Vaud,1,Urban
+5908,Chêne-Pâquier,22,Vaud,3,Rural
+5904,Chamblon,22,Vaud,2,Intermediate
+5764,Vallorbe,22,Vaud,2,Intermediate
+5763,Valeyres-sous-Rances,22,Vaud,3,Rural
+5933,Valeyres-sous-Montagny,22,Vaud,1,Urban
+5932,Ursins,22,Vaud,3,Rural
+5934,Valeyres-sous-Ursins,22,Vaud,3,Rural
+5890,Vevey,22,Vaud,1,Urban
+5765,Vaulion,22,Vaud,3,Rural
+5650,Vaux-sur-Morges,22,Vaud,3,Rural
+5891,Veytaux,22,Vaud,1,Urban
+5827,Trey,22,Vaud,3,Rural
+5931,Treycovagnes,22,Vaud,2,Intermediate
+5730,Trélex,22,Vaud,2,Intermediate
+5649,Tolochenaz,22,Vaud,1,Urban
+5828,Treytorrens (Payerne),22,Vaud,3,Rural
+5652,Villars-sous-Yens,22,Vaud,3,Rural
+5935,Villars-Epeney,22,Vaud,3,Rural
+5651,Villars-Sainte-Croix,22,Vaud,1,Urban
+5537,Villars-le-Terroir,22,Vaud,2,Intermediate
+5690,Villars-le-Comte,22,Vaud,3,Rural
+5732,Vich,22,Vaud,1,Urban
+5862,Tartegnin,22,Vaud,2,Intermediate
+5929,Suchy,22,Vaud,3,Rural
+5729,Tannay,22,Vaud,1,Urban
+5688,Syens,22,Vaud,3,Rural
+5930,Suscévaz,22,Vaud,3,Rural
+5501,Sullens,22,Vaud,3,Rural
+5654,Vullierens,22,Vaud,3,Rural
+5803,Vulliens,22,Vaud,3,Rural
+5766,Vuiteboeuf,22,Vaud,3,Rural
+5937,Vugelles-La Mothe,22,Vaud,3,Rural
+5653,Vufflens-le-Château,22,Vaud,2,Intermediate
+5503,Vufflens-la-Ville,22,Vaud,2,Intermediate
+5692,Vucherens,22,Vaud,3,Rural
+5539,Vuarrens,22,Vaud,3,Rural
+5415,Yvorne,22,Vaud,3,Rural
+5939,Yvonand,22,Vaud,2,Intermediate
+5655,Yens,22,Vaud,3,Rural
+5414,Villeneuve (VD),22,Vaud,1,Urban
+5863,Vinzel,22,Vaud,2,Intermediate
+5049,Blenio,21,Ticino,3,Rural
+5310,Cevio,21,Ticino,3,Rural
+3340,Rapperswil-Jona,17,St. Gallen,1,Urban
+6288,Saas-Almagell,23,Valais / Wallis,3,Rural
+6289,Saas-Balen,23,Valais / Wallis,3,Rural
+6290,Saas-Fee,23,Valais / Wallis,2,Intermediate
+6291,Saas-Grund,23,Valais / Wallis,3,Rural
+5226,Capriasca,21,Ticino,2,Intermediate
+5151,Bioggio,21,Ticino,1,Urban
+5324,Avegno Gordevio,21,Ticino,3,Rural
+2920,Thayngen,14,Schaffhausen,2,Intermediate
+2939,Schaffhausen,14,Schaffhausen,1,Urban
+6076,Obergoms,23,Valais / Wallis,3,Rural
+6118,Gampel-Bratsch,23,Valais / Wallis,2,Intermediate
+6203,Mörel-Filet,23,Valais / Wallis,3,Rural
+6204,Steg-Hohtenn,23,Valais / Wallis,2,Intermediate
+6252,Anniviers,23,Valais / Wallis,3,Rural
+6808,Clos du Doubs,26,Jura,3,Rural
+6757,Saignelégier,26,Jura,2,Intermediate
+6751,Montfaucon,26,Jura,3,Rural
+6753,Muriaux,26,Jura,3,Rural
+6810,La Baroche,26,Jura,3,Rural
+6807,Basse-Allaine,26,Jura,3,Rural
+5397,Centovalli,21,Ticino,2,Intermediate
+5269,Breggia,21,Ticino,2,Intermediate
+756,Twann-Tüscherz,2,Bern / Berne,3,Rural
+301,Aarberg,2,Bern / Berne,2,Intermediate
+302,Bargen (BE),2,Bern / Berne,2,Intermediate
+303,Grossaffoltern,2,Bern / Berne,2,Intermediate
+305,Kappelen,2,Bern / Berne,2,Intermediate
+307,Meikirch,2,Bern / Berne,3,Rural
+309,Radelfingen,2,Bern / Berne,3,Rural
+311,Schüpfen,2,Bern / Berne,2,Intermediate
+312,Seedorf (BE),2,Bern / Berne,3,Rural
+321,Aarwangen,2,Bern / Berne,3,Rural
+322,Auswil,2,Bern / Berne,3,Rural
+323,Bannwil,2,Bern / Berne,3,Rural
+324,Bleienbach,2,Bern / Berne,3,Rural
+325,Busswil bei Melchnau,2,Bern / Berne,3,Rural
+326,Gondiswil,2,Bern / Berne,3,Rural
+331,Lotzwil,2,Bern / Berne,1,Urban
+333,Melchnau,2,Bern / Berne,3,Rural
+335,Oeschenbach,2,Bern / Berne,3,Rural
+336,Reisiswil,2,Bern / Berne,3,Rural
+337,Roggwil (BE),2,Bern / Berne,3,Rural
+338,Rohrbach,2,Bern / Berne,3,Rural
+339,Rohrbachgraben,2,Bern / Berne,3,Rural
+340,Rütschelen,2,Bern / Berne,3,Rural
+341,Schwarzhäusern,2,Bern / Berne,3,Rural
+342,Thunstetten,2,Bern / Berne,3,Rural
+344,Ursenbach,2,Bern / Berne,3,Rural
+345,Wynau,2,Bern / Berne,3,Rural
+351,Bern,2,Bern / Berne,1,Urban
+352,Bolligen,2,Bern / Berne,1,Urban
+353,Bremgarten bei Bern,2,Bern / Berne,1,Urban
+354,Kirchlindach,2,Bern / Berne,2,Intermediate
+355,Köniz,2,Bern / Berne,1,Urban
+356,Muri bei Bern,2,Bern / Berne,1,Urban
+357,Oberbalm,2,Bern / Berne,3,Rural
+358,Stettlen,2,Bern / Berne,1,Urban
+359,Vechigen,2,Bern / Berne,1,Urban
+360,Wohlen bei Bern,2,Bern / Berne,2,Intermediate
+361,Zollikofen,2,Bern / Berne,1,Urban
+362,Ittigen,2,Bern / Berne,1,Urban
+363,Ostermundigen,2,Bern / Berne,1,Urban
+371,Biel/Bienne,2,Bern / Berne,1,Urban
+372,Evilard,2,Bern / Berne,1,Urban
+381,Arch,2,Bern / Berne,2,Intermediate
+382,Büetigen,2,Bern / Berne,2,Intermediate
+383,Büren an der Aare,2,Bern / Berne,2,Intermediate
+385,Diessbach bei Büren,2,Bern / Berne,3,Rural
+386,Dotzigen,2,Bern / Berne,2,Intermediate
+387,Lengnau (BE),2,Bern / Berne,1,Urban
+388,Leuzigen,2,Bern / Berne,3,Rural
+389,Meienried,2,Bern / Berne,3,Rural
+390,Meinisberg,2,Bern / Berne,3,Rural
+391,Oberwil bei Büren,2,Bern / Berne,3,Rural
+392,Pieterlen,2,Bern / Berne,2,Intermediate
+393,Rüti bei Büren,2,Bern / Berne,3,Rural
+394,Wengi,2,Bern / Berne,3,Rural
+401,Aefligen,2,Bern / Berne,1,Urban
+402,Alchenstorf,2,Bern / Berne,3,Rural
+403,Bäriswil,2,Bern / Berne,2,Intermediate
+404,Burgdorf,2,Bern / Berne,1,Urban
+406,Hasle bei Burgdorf,2,Bern / Berne,2,Intermediate
+407,Heimiswil,2,Bern / Berne,3,Rural
+408,Hellsau,2,Bern / Berne,3,Rural
+410,Höchstetten,2,Bern / Berne,3,Rural
+411,Kernenried,2,Bern / Berne,3,Rural
+412,Kirchberg (BE),2,Bern / Berne,1,Urban
+413,Koppigen,2,Bern / Berne,2,Intermediate
+414,Krauchthal,2,Bern / Berne,3,Rural
+415,Lyssach,2,Bern / Berne,2,Intermediate
+418,Oberburg,2,Bern / Berne,1,Urban
+420,Rüdtligen-Alchenflüh,2,Bern / Berne,1,Urban
+421,Rumendingen,2,Bern / Berne,3,Rural
+422,Rüti bei Lyssach,2,Bern / Berne,3,Rural
+423,Willadingen,2,Bern / Berne,3,Rural
+424,Wynigen,2,Bern / Berne,3,Rural
+431,Corgémont,2,Bern / Berne,3,Rural
+432,Cormoret,2,Bern / Berne,3,Rural
+433,Cortébert,2,Bern / Berne,3,Rural
+434,Courtelary,2,Bern / Berne,3,Rural
+435,La Ferrière,2,Bern / Berne,3,Rural
+437,Mont-Tramelan,2,Bern / Berne,3,Rural
+438,Orvin,2,Bern / Berne,3,Rural
+441,Renan (BE),2,Bern / Berne,3,Rural
+442,Romont (BE),2,Bern / Berne,3,Rural
+443,Saint-Imier,2,Bern / Berne,2,Intermediate
+444,Sonceboz-Sombeval,2,Bern / Berne,3,Rural
+445,Sonvilier,2,Bern / Berne,3,Rural
+446,Tramelan,2,Bern / Berne,2,Intermediate
+448,Villeret,2,Bern / Berne,2,Intermediate
+491,Brüttelen,2,Bern / Berne,3,Rural
+492,Erlach,2,Bern / Berne,2,Intermediate
+493,Finsterhennen,2,Bern / Berne,3,Rural
+494,Gals,2,Bern / Berne,2,Intermediate
+495,Gampelen,2,Bern / Berne,2,Intermediate
+496,Ins,2,Bern / Berne,2,Intermediate
+497,Lüscherz,2,Bern / Berne,3,Rural
+498,Müntschemier,2,Bern / Berne,3,Rural
+499,Siselen,2,Bern / Berne,3,Rural
+500,Treiten,2,Bern / Berne,3,Rural
+501,Tschugg,2,Bern / Berne,3,Rural
+502,Vinelz,2,Bern / Berne,3,Rural
+533,Bätterkinden,2,Bern / Berne,2,Intermediate
+535,Deisswil bei Münchenbuchsee,2,Bern / Berne,3,Rural
+541,Iffwil,2,Bern / Berne,3,Rural
+543,Mattstetten,2,Bern / Berne,2,Intermediate
+544,Moosseedorf,2,Bern / Berne,1,Urban
+551,Urtenen-Schönbühl,2,Bern / Berne,1,Urban
+552,Utzenstorf,2,Bern / Berne,2,Intermediate
+553,Wiggiswil,2,Bern / Berne,3,Rural
+554,Wiler bei Utzenstorf,2,Bern / Berne,3,Rural
+556,Zielebach,2,Bern / Berne,2,Intermediate
+557,Zuzwil (BE),2,Bern / Berne,3,Rural
+561,Adelboden,2,Bern / Berne,2,Intermediate
+562,Aeschi bei Spiez,2,Bern / Berne,3,Rural
+563,Frutigen,2,Bern / Berne,2,Intermediate
+564,Kandergrund,2,Bern / Berne,3,Rural
+565,Kandersteg,2,Bern / Berne,3,Rural
+566,Krattigen,2,Bern / Berne,2,Intermediate
+567,Reichenbach im Kandertal,2,Bern / Berne,3,Rural
+571,Beatenberg,2,Bern / Berne,3,Rural
+572,Bönigen,2,Bern / Berne,1,Urban
+573,Brienz (BE),2,Bern / Berne,2,Intermediate
+574,Brienzwiler,2,Bern / Berne,3,Rural
+575,Därligen,2,Bern / Berne,3,Rural
+576,Grindelwald,2,Bern / Berne,2,Intermediate
+577,Gsteigwiler,2,Bern / Berne,3,Rural
+578,Gündlischwand,2,Bern / Berne,3,Rural
+579,Habkern,2,Bern / Berne,3,Rural
+580,Hofstetten bei Brienz,2,Bern / Berne,3,Rural
+581,Interlaken,2,Bern / Berne,1,Urban
+582,Iseltwald,2,Bern / Berne,3,Rural
+584,Lauterbrunnen,2,Bern / Berne,3,Rural
+585,Leissigen,2,Bern / Berne,3,Rural
+586,Lütschental,2,Bern / Berne,3,Rural
+587,Matten bei Interlaken,2,Bern / Berne,1,Urban
+588,Niederried bei Interlaken,2,Bern / Berne,3,Rural
+589,Oberried am Brienzersee,2,Bern / Berne,3,Rural
+590,Ringgenberg (BE),2,Bern / Berne,2,Intermediate
+591,Saxeten,2,Bern / Berne,3,Rural
+592,Schwanden bei Brienz,2,Bern / Berne,2,Intermediate
+593,Unterseen,2,Bern / Berne,1,Urban
+594,Wilderswil,2,Bern / Berne,2,Intermediate
+602,Arni (BE),2,Bern / Berne,3,Rural
+603,Biglen,2,Bern / Berne,2,Intermediate
+605,Bowil,2,Bern / Berne,3,Rural
+606,Brenzikofen,2,Bern / Berne,3,Rural
+607,Freimettigen,2,Bern / Berne,2,Intermediate
+609,Häutligen,2,Bern / Berne,3,Rural
+610,Herbligen,2,Bern / Berne,3,Rural
+611,Kiesen,2,Bern / Berne,2,Intermediate
+612,Konolfingen,2,Bern / Berne,2,Intermediate
+613,Landiswil,2,Bern / Berne,3,Rural
+614,Linden,2,Bern / Berne,3,Rural
+615,Mirchel,2,Bern / Berne,3,Rural
+617,Niederhünigen,2,Bern / Berne,2,Intermediate
+620,Oberthal,2,Bern / Berne,3,Rural
+622,Oppligen,2,Bern / Berne,2,Intermediate
+623,Rubigen,2,Bern / Berne,2,Intermediate
+626,Walkringen,2,Bern / Berne,3,Rural
+627,Worb,2,Bern / Berne,2,Intermediate
+628,Zäziwil,2,Bern / Berne,2,Intermediate
+629,Oberhünigen,2,Bern / Berne,3,Rural
+630,Allmendingen,2,Bern / Berne,3,Rural
+632,Wichtrach,2,Bern / Berne,2,Intermediate
+662,Ferenbalm,2,Bern / Berne,3,Rural
+663,Frauenkappelen,2,Bern / Berne,2,Intermediate
+665,Gurbrü,2,Bern / Berne,3,Rural
+666,Kriechenwil,2,Bern / Berne,3,Rural
+667,Laupen,2,Bern / Berne,2,Intermediate
+668,Mühleberg,2,Bern / Berne,3,Rural
+669,Münchenwiler,2,Bern / Berne,1,Urban
+670,Neuenegg,2,Bern / Berne,2,Intermediate
+671,Wileroltigen,2,Bern / Berne,3,Rural
+681,Belprahon,2,Bern / Berne,3,Rural
+683,Champoz,2,Bern / Berne,3,Rural
+687,Corcelles (BE),2,Bern / Berne,3,Rural
+690,Court,2,Bern / Berne,3,Rural
+691,Crémines,2,Bern / Berne,3,Rural
+692,Eschert,2,Bern / Berne,2,Intermediate
+694,Grandval,2,Bern / Berne,3,Rural
+696,Loveresse,2,Bern / Berne,3,Rural
+701,Perrefitte,2,Bern / Berne,3,Rural
+703,Reconvilier,2,Bern / Berne,3,Rural
+704,Roches (BE),2,Bern / Berne,3,Rural
+706,Saicourt,2,Bern / Berne,3,Rural
+707,Saules (BE),2,Bern / Berne,3,Rural
+708,Schelten,2,Bern / Berne,3,Rural
+709,Seehof,2,Bern / Berne,3,Rural
+711,Sorvilier,2,Bern / Berne,3,Rural
+713,Tavannes,2,Bern / Berne,3,Rural
+715,Rebévelier,2,Bern / Berne,3,Rural
+723,La Neuveville,2,Bern / Berne,2,Intermediate
+724,Nods,2,Bern / Berne,3,Rural
+731,Aegerten,2,Bern / Berne,1,Urban
+732,Bellmund,2,Bern / Berne,1,Urban
+733,Brügg,2,Bern / Berne,1,Urban
+734,Bühl,2,Bern / Berne,3,Rural
+735,Epsach,2,Bern / Berne,3,Rural
+736,Hagneck,2,Bern / Berne,2,Intermediate
+737,Hermrigen,2,Bern / Berne,3,Rural
+738,Jens,2,Bern / Berne,2,Intermediate
+739,Ipsach,2,Bern / Berne,1,Urban
+740,Ligerz,2,Bern / Berne,3,Rural
+741,Merzligen,2,Bern / Berne,3,Rural
+742,Mörigen,2,Bern / Berne,2,Intermediate
+743,Nidau,2,Bern / Berne,1,Urban
+744,Orpund,2,Bern / Berne,2,Intermediate
+745,Port,2,Bern / Berne,1,Urban
+746,Safnern,2,Bern / Berne,2,Intermediate
+747,Scheuren,2,Bern / Berne,2,Intermediate
+748,Schwadernau,2,Bern / Berne,1,Urban
+749,Studen (BE),2,Bern / Berne,1,Urban
+750,Sutz-Lattrigen,2,Bern / Berne,2,Intermediate
+751,Täuffelen,2,Bern / Berne,2,Intermediate
+754,Walperswil,2,Bern / Berne,3,Rural
+755,Worben,2,Bern / Berne,1,Urban
+761,Därstetten,2,Bern / Berne,3,Rural
+762,Diemtigen,2,Bern / Berne,3,Rural
+763,Erlenbach im Simmental,2,Bern / Berne,3,Rural
+766,Oberwil im Simmental,2,Bern / Berne,3,Rural
+768,Spiez,2,Bern / Berne,1,Urban
+769,Wimmis,2,Bern / Berne,2,Intermediate
+782,Guttannen,2,Bern / Berne,3,Rural
+783,Hasliberg,2,Bern / Berne,3,Rural
+785,Meiringen,2,Bern / Berne,2,Intermediate
+786,Schattenhalb,2,Bern / Berne,2,Intermediate
+791,Boltigen,2,Bern / Berne,3,Rural
+792,Lenk,2,Bern / Berne,3,Rural
+793,St. Stephan,2,Bern / Berne,3,Rural
+794,Zweisimmen,2,Bern / Berne,3,Rural
+841,Gsteig,2,Bern / Berne,3,Rural
+842,Lauenen,2,Bern / Berne,3,Rural
+843,Saanen,2,Bern / Berne,2,Intermediate
+852,Guggisberg,2,Bern / Berne,3,Rural
+853,Rüschegg,2,Bern / Berne,3,Rural
+863,Burgistein,2,Bern / Berne,3,Rural
+866,Gerzensee,2,Bern / Berne,3,Rural
+867,Gurzelen,2,Bern / Berne,2,Intermediate
+868,Jaberg,2,Bern / Berne,2,Intermediate
+869,Kaufdorf,2,Bern / Berne,2,Intermediate
+870,Kehrsatz,2,Bern / Berne,1,Urban
+877,Niedermuhlern,2,Bern / Berne,3,Rural
+880,Rüeggisberg,2,Bern / Berne,3,Rural
+883,Seftigen,2,Bern / Berne,2,Intermediate
+884,Toffen,2,Bern / Berne,2,Intermediate
+886,Wattenwil,2,Bern / Berne,2,Intermediate
+888,Wald (BE),2,Bern / Berne,3,Rural
+901,Eggiwil,2,Bern / Berne,3,Rural
+902,Langnau im Emmental,2,Bern / Berne,2,Intermediate
+903,Lauperswil,2,Bern / Berne,3,Rural
+904,Röthenbach im Emmental,2,Bern / Berne,3,Rural
+905,Rüderswil,2,Bern / Berne,3,Rural
+906,Schangnau,2,Bern / Berne,3,Rural
+907,Signau,2,Bern / Berne,3,Rural
+908,Trub,2,Bern / Berne,3,Rural
+909,Trubschachen,2,Bern / Berne,3,Rural
+921,Amsoldingen,2,Bern / Berne,3,Rural
+922,Blumenstein,2,Bern / Berne,2,Intermediate
+923,Buchholterberg,2,Bern / Berne,3,Rural
+924,Eriz,2,Bern / Berne,3,Rural
+925,Fahrni,2,Bern / Berne,3,Rural
+927,Heiligenschwendi,2,Bern / Berne,3,Rural
+928,Heimberg,2,Bern / Berne,1,Urban
+929,Hilterfingen,2,Bern / Berne,1,Urban
+931,Homberg,2,Bern / Berne,3,Rural
+932,Horrenbach-Buchen,2,Bern / Berne,3,Rural
+934,Oberhofen am Thunersee,2,Bern / Berne,1,Urban
+935,Oberlangenegg,2,Bern / Berne,3,Rural
+936,Pohlern,2,Bern / Berne,3,Rural
+938,Sigriswil,2,Bern / Berne,2,Intermediate
+940,Teuffenthal (BE),2,Bern / Berne,3,Rural
+941,Thierachern,2,Bern / Berne,2,Intermediate
+942,Thun,2,Bern / Berne,1,Urban
+943,Uebeschi,2,Bern / Berne,3,Rural
+944,Uetendorf,2,Bern / Berne,2,Intermediate
+945,Unterlangenegg,2,Bern / Berne,3,Rural
+946,Wachseldorn,2,Bern / Berne,3,Rural
+948,Forst-Längenbühl,2,Bern / Berne,2,Intermediate
+951,Affoltern im Emmental,2,Bern / Berne,3,Rural
+952,Dürrenroth,2,Bern / Berne,3,Rural
+953,Eriswil,2,Bern / Berne,3,Rural
+954,Huttwil,2,Bern / Berne,2,Intermediate
+955,Lützelflüh,2,Bern / Berne,3,Rural
+956,Rüegsau,2,Bern / Berne,2,Intermediate
+957,Sumiswald,2,Bern / Berne,3,Rural
+958,Trachselwald,2,Bern / Berne,3,Rural
+959,Walterswil (BE),2,Bern / Berne,3,Rural
+960,Wyssachen,2,Bern / Berne,3,Rural
+971,Attiswil,2,Bern / Berne,3,Rural
+972,Berken,2,Bern / Berne,3,Rural
+975,Farnern,2,Bern / Berne,3,Rural
+976,Graben,2,Bern / Berne,3,Rural
+977,Heimenhausen,2,Bern / Berne,3,Rural
+979,Herzogenbuchsee,2,Bern / Berne,1,Urban
+980,Inkwil,2,Bern / Berne,3,Rural
+982,Niederönz,2,Bern / Berne,1,Urban
+983,Oberbipp,2,Bern / Berne,3,Rural
+985,Ochlenberg,2,Bern / Berne,3,Rural
+987,Rumisberg,2,Bern / Berne,3,Rural
+989,Thörigen,2,Bern / Berne,3,Rural
+990,Walliswil bei Niederbipp,2,Bern / Berne,3,Rural
+991,Walliswil bei Wangen,2,Bern / Berne,3,Rural
+995,Wiedlisbach,2,Bern / Berne,3,Rural
+2457,Messen,11,Solothurn,3,Rural
+3359,Wildhaus-Alt St. Johann,17,St. Gallen,3,Rural
+4001,Aarau,19,Aargau,1,Urban
+4080,Villmergen,19,Aargau,1,Urban
+4184,Mettauertal,19,Aargau,3,Rural
+4169,Kaisten,19,Aargau,3,Rural
+4170,Laufenburg,19,Aargau,3,Rural
+5398,Gambarogno,21,Ticino,2,Intermediate
+5238,Monteceneri,21,Ticino,2,Intermediate
+4696,Tägerwilen,20,Thurgau,2,Intermediate
+4864,Steckborn,20,Thurgau,3,Rural
+4606,Stettfurt,20,Thurgau,3,Rural
+4451,Uttwil,20,Thurgau,2,Intermediate
+4641,Altnau,20,Thurgau,3,Rural
+4801,Berlingen,20,Thurgau,3,Rural
+4656,Güttingen,20,Thurgau,2,Intermediate
+4651,Gottlieben,20,Thurgau,2,Intermediate
+4411,Egnach,20,Thurgau,2,Intermediate
+4406,Dozwil,20,Thurgau,2,Intermediate
+4421,Horn,20,Thurgau,1,Urban
+4806,Eschenz,20,Thurgau,2,Intermediate
+4416,Hefenhofen,20,Thurgau,2,Intermediate
+4746,Münchwilen (TG),20,Thurgau,1,Urban
+4671,Kreuzlingen,20,Thurgau,1,Urban
+4426,Kesswil,20,Thurgau,2,Intermediate
+4591,Matzingen,20,Thurgau,2,Intermediate
+4436,Romanshorn,20,Thurgau,1,Urban
+4431,Roggwil (TG),20,Thurgau,1,Urban
+4441,Salmsach,20,Thurgau,1,Urban
+4846,Raperswilen,20,Thurgau,3,Rural
+4756,Schönholzerswilen,20,Thurgau,3,Rural
+4831,Müllheim,20,Thurgau,2,Intermediate
+4446,Sommeri,20,Thurgau,3,Rural
+4791,Wuppenau,20,Thurgau,3,Rural
+4726,Fischingen,20,Thurgau,3,Rural
+4941,Märstetten,20,Thurgau,3,Rural
+4646,Ermatingen,20,Thurgau,3,Rural
+4851,Salenstein,20,Thurgau,3,Rural
+4561,Felben-Wellhausen,20,Thurgau,2,Intermediate
+4826,Mammern,20,Thurgau,3,Rural
+4643,Bottighofen,20,Thurgau,1,Urban
+4691,Münsterlingen,20,Thurgau,3,Rural
+4476,Erlen,20,Thurgau,3,Rural
+4911,Bürglen (TG),20,Thurgau,3,Rural
+4611,Thundorf,20,Thurgau,3,Rural
+4621,Warth-Weiningen,20,Thurgau,3,Rural
+4616,Uesslingen-Buch,20,Thurgau,3,Rural
+4701,Wäldi,20,Thurgau,3,Rural
+4711,Affeltrangen,20,Thurgau,3,Rural
+4716,Bettwiesen,20,Thurgau,3,Rural
+4741,Lommis,20,Thurgau,3,Rural
+4881,Amlikon-Bissegg,20,Thurgau,3,Rural
+4946,Weinfelden,20,Thurgau,1,Urban
+4901,Birwinken,20,Thurgau,3,Rural
+4951,Wigoltingen,20,Thurgau,3,Rural
+4871,Wagenhausen,20,Thurgau,2,Intermediate
+4781,Wängi,20,Thurgau,2,Intermediate
+4551,Aadorf,20,Thurgau,2,Intermediate
+4721,Bichelsee-Balterswil,20,Thurgau,2,Intermediate
+4921,Bussnang,20,Thurgau,3,Rural
+4666,Kemmental,20,Thurgau,3,Rural
+4486,Hauptwil-Gottshaus,20,Thurgau,3,Rural
+4601,Neunforn,20,Thurgau,3,Rural
+4501,Kradolf-Schönenberg,20,Thurgau,3,Rural
+4471,Bischofszell,20,Thurgau,2,Intermediate
+4506,Sulgen,20,Thurgau,3,Rural
+4461,Amriswil,20,Thurgau,1,Urban
+4511,Zihlschlacht-Sitterdorf,20,Thurgau,3,Rural
+4761,Sirnach,20,Thurgau,1,Urban
+4724,Eschlikon,20,Thurgau,2,Intermediate
+4821,Hüttwilen,20,Thurgau,3,Rural
+4401,Arbon,20,Thurgau,1,Urban
+4571,Gachnang,20,Thurgau,2,Intermediate
+4566,Frauenfeld,20,Thurgau,1,Urban
+4681,Langrickenbach,20,Thurgau,3,Rural
+4683,Lengwil,20,Thurgau,3,Rural
+4891,Berg (TG),20,Thurgau,3,Rural
+4786,Wilen (TG),20,Thurgau,1,Urban
+4751,Rickenbach (TG),20,Thurgau,1,Urban
+4811,Herdern,20,Thurgau,3,Rural
+4841,Pfyn,20,Thurgau,3,Rural
+4495,Hohentannen,20,Thurgau,3,Rural
+4546,Schlatt (TG),20,Thurgau,3,Rural
+4536,Basadingen-Schlattingen,20,Thurgau,3,Rural
+4590,Hüttlingen,20,Thurgau,3,Rural
+4723,Braunau,20,Thurgau,3,Rural
+4776,Tobel-Tägerschen,20,Thurgau,2,Intermediate
+4816,Homburg,20,Thurgau,3,Rural
+4545,Diessenhofen,20,Thurgau,3,Rural
+306,Lyss,2,Bern / Berne,1,Urban
+332,Madiswil,2,Bern / Berne,3,Rural
+855,Schwarzenburg,2,Bern / Berne,2,Intermediate
+973,Bettenhausen,2,Bern / Berne,3,Rural
+1631,Glarus Süd,8,Glarus,3,Rural
+1630,Glarus Nord,8,Glarus,1,Urban
+1632,Glarus,8,Glarus,1,Urban
+2129,Corbières,10,Fribourg / Freiburg,3,Rural
+2554,Riedholz,11,Solothurn,2,Intermediate
+6090,Mont-Noble,23,Valais / Wallis,3,Rural
+5451,Avenches,22,Vaud,3,Rural
+5464,Vully-les-Lacs,22,Vaud,3,Rural
+5540,Montilliez,22,Vaud,3,Rural
+5541,Goumoëns,22,Vaud,3,Rural
+5804,Jorat-Menthue,22,Vaud,3,Rural
+5571,Tévenon,22,Vaud,3,Rural
+5613,Bourg-en-Lavaux,22,Vaud,2,Intermediate
+5634,Echichens,22,Vaud,2,Intermediate
+5831,Valbroye,22,Vaud,3,Rural
+5938,Yverdon-les-Bains,22,Vaud,1,Urban
+861,Belp,2,Bern / Berne,2,Intermediate
+4234,Merenschwand,19,Aargau,2,Intermediate
+5799,Servion,22,Vaud,3,Rural
+5905,Champvent,22,Vaud,3,Rural
+5913,Donneloye,22,Vaud,3,Rural
+2511,Aeschi (SO),11,Solothurn,2,Intermediate
+5050,Serravalle,21,Ticino,3,Rural
+5236,Collina d'Oro,21,Ticino,1,Urban
+24,Buch am Irchel,1,Zürich,3,Rural
+223,Neftenbach,1,Zürich,1,Urban
+1010,Escholzmatt-Marbach,3,Luzern,3,Rural
+1097,Rickenbach (LU),3,Luzern,3,Rural
+1143,Schötz,3,Luzern,2,Intermediate
+1009,Werthenstein,3,Luzern,3,Rural
+1147,Wikon,3,Luzern,1,Urban
+1150,Zell (LU),3,Luzern,3,Rural
+1107,Wolhusen,3,Luzern,2,Intermediate
+1068,Vitznau,3,Luzern,3,Rural
+1146,Wauwil,3,Luzern,3,Rural
+1069,Weggis,3,Luzern,2,Intermediate
+1103,Sursee,3,Luzern,1,Urban
+1067,Udligenswil,3,Luzern,2,Intermediate
+1145,Ufhusen,3,Luzern,3,Rural
+1052,Buchrain,3,Luzern,1,Urban
+1083,Buttisholz,3,Luzern,2,Intermediate
+1082,Büron,3,Luzern,3,Rural
+1053,Dierikon,3,Luzern,1,Urban
+1023,Ballwil,3,Luzern,2,Intermediate
+1121,Alberswil,3,Luzern,3,Rural
+1051,Adligenswil,3,Luzern,1,Urban
+1021,Aesch (LU),3,Luzern,3,Rural
+1122,Altbüron,3,Luzern,3,Rural
+1004,Flühli,3,Luzern,3,Rural
+1131,Grossdietwil,3,Luzern,3,Rural
+1086,Grosswangen,3,Luzern,2,Intermediate
+1129,Fischbach,3,Luzern,3,Rural
+1005,Hasle (LU),3,Luzern,3,Rural
+1085,Geuensee,3,Luzern,3,Rural
+1055,Gisikon,3,Luzern,2,Intermediate
+1056,Greppen,3,Luzern,2,Intermediate
+1054,Ebikon,3,Luzern,1,Urban
+1084,Eich,3,Luzern,3,Rural
+1127,Egolzwil,3,Luzern,3,Rural
+1031,Hochdorf,3,Luzern,1,Urban
+1001,Doppleschwand,3,Luzern,3,Rural
+1058,Horw,3,Luzern,1,Urban
+1026,Eschenbach (LU),3,Luzern,2,Intermediate
+1002,Entlebuch,3,Luzern,3,Rural
+1088,Hildisrieden,3,Luzern,3,Rural
+1024,Emmen,3,Luzern,1,Urban
+1025,Ermensee,3,Luzern,2,Intermediate
+1132,Hergiswil bei Willisau,3,Luzern,3,Rural
+1136,Menznau,3,Luzern,3,Rural
+1064,Meierskappel,3,Luzern,2,Intermediate
+1063,Meggen,3,Luzern,1,Urban
+1095,Oberkirch,3,Luzern,1,Urban
+1093,Neuenkirch,3,Luzern,2,Intermediate
+1137,Nebikon,3,Luzern,2,Intermediate
+1094,Nottwil,3,Luzern,3,Rural
+1091,Mauensee,3,Luzern,3,Rural
+1033,Inwil,3,Luzern,2,Intermediate
+1089,Knutwil,3,Luzern,3,Rural
+1059,Kriens,3,Luzern,1,Urban
+1135,Luthern,3,Luzern,3,Rural
+1062,Malters,3,Luzern,2,Intermediate
+1040,Rothenburg,3,Luzern,1,Urban
+1098,Ruswil,3,Luzern,2,Intermediate
+1007,Romoos,3,Luzern,3,Rural
+1142,Roggliswil,3,Luzern,3,Rural
+1066,Schwarzenberg,3,Luzern,3,Rural
+1008,Schüpfheim,3,Luzern,2,Intermediate
+1041,Schongau,3,Luzern,3,Rural
+1102,Sempach,3,Luzern,3,Rural
+1100,Schlierbach,3,Luzern,3,Rural
+1037,Rain,3,Luzern,2,Intermediate
+1139,Pfaffnau,3,Luzern,3,Rural
+1039,Römerswil,3,Luzern,3,Rural
+1125,Dagmersellen,3,Luzern,3,Rural
+1128,Ettiswil,3,Luzern,3,Rural
+1140,Reiden,3,Luzern,3,Rural
+1032,Hohenrain,3,Luzern,3,Rural
+1104,Triengen,3,Luzern,2,Intermediate
+1061,Luzern,3,Luzern,1,Urban
+2464,Lüsslingen-Nennigkofen,11,Solothurn,3,Rural
+2535,Drei Höfe,11,Solothurn,3,Rural
+2932,Beringen,14,Schaffhausen,2,Intermediate
+3341,Gommiswald,17,St. Gallen,3,Rural
+3342,Eschenbach (SG),17,St. Gallen,2,Intermediate
+3360,Nesslau,17,St. Gallen,3,Rural
+3379,Wattwil,17,St. Gallen,1,Urban
+3395,Bütschwil-Ganterschwil,17,St. Gallen,2,Intermediate
+3427,Wil (SG),17,St. Gallen,1,Urban
+4124,Bözberg,19,Aargau,3,Rural
+5693,Montanaire,22,Vaud,3,Rural
+6007,Naters,23,Valais / Wallis,1,Urban
+6110,Leuk,23,Valais / Wallis,2,Intermediate
+6119,Turtmann-Unterems,23,Valais / Wallis,3,Rural
+6217,Saint-Maurice,23,Valais / Wallis,2,Intermediate
+6729,Haute-Sorne,26,Jura,2,Intermediate
+6790,Fontenais,26,Jura,1,Urban
+5396,Terre di Pedemonte,21,Ticino,2,Intermediate
+5192,Lugano,21,Ticino,1,Urban
+5254,Mendrisio,21,Ticino,1,Urban
+298,Wiesendangen,1,Zürich,2,Intermediate
+449,Sauge,2,Bern / Berne,3,Rural
+538,Fraubrunnen,2,Bern / Berne,2,Intermediate
+540,Jegenstorf,2,Bern / Berne,2,Intermediate
+619,Oberdiessbach,2,Bern / Berne,2,Intermediate
+726,Plateau de Diesse,2,Bern / Berne,3,Rural
+770,Stocken-Höfen,2,Bern / Berne,3,Rural
+784,Innertkirchen,2,Bern / Berne,3,Rural
+885,Uttigen,2,Bern / Berne,2,Intermediate
+2163,Val-de-Charmey,10,Fribourg / Freiburg,3,Rural
+4063,Bremgarten (AG),19,Aargau,1,Urban
+4125,Schinznach,19,Aargau,2,Intermediate
+4305,Endingen,19,Aargau,2,Intermediate
+6205,Bettmeralp,23,Valais / Wallis,3,Rural
+5624,Bussigny,22,Vaud,1,Urban
+5702,Arzier-Le Muids,22,Vaud,2,Intermediate
+297,Bauma,1,Zürich,2,Intermediate
+450,Péry-La Heutte,2,Bern / Berne,3,Rural
+717,Valbirse,2,Bern / Berne,2,Intermediate
+716,Petit-Val,2,Bern / Berne,3,Rural
+1081,Beromünster,3,Luzern,2,Intermediate
+1099,Schenkon,3,Luzern,1,Urban
+296,Illnau-Effretikon,1,Zürich,1,Urban
+310,Rapperswil (BE),2,Bern / Berne,3,Rural
+405,Ersigen,2,Bern / Berne,1,Urban
+988,Seeberg,2,Bern / Berne,3,Rural
+2053,Belmont-Broye,10,Fribourg / Freiburg,3,Rural
+2175,Belfaux,10,Fribourg / Freiburg,1,Urban
+2236,Gibloux,10,Fribourg / Freiburg,2,Intermediate
+2284,Mont-Vully,10,Fribourg / Freiburg,2,Intermediate
+5072,Faido,21,Ticino,3,Rural
+5136,Onsernone,21,Ticino,3,Rural
+5806,Jorat-Mézières,22,Vaud,2,Intermediate
+616,Münsingen,2,Bern / Berne,1,Urban
+2054,Estavayer,10,Fribourg / Freiburg,2,Intermediate
+2055,Cheyres-Châbles,10,Fribourg / Freiburg,3,Rural
+2183,Corminboeuf,10,Fribourg / Freiburg,1,Urban
+2254,Courtepin,10,Fribourg / Freiburg,2,Intermediate
+2299,Plaffeien,10,Fribourg / Freiburg,2,Intermediate
+3832,Grono,18,Graubünden / Grigioni / Grischun,3,Rural
+3506,Vaz/Obervaz,18,Graubünden / Grigioni / Grischun,3,Rural
+3513,Lantsch/Lenz,18,Graubünden / Grigioni / Grischun,3,Rural
+3514,Schmitten (GR),18,Graubünden / Grigioni / Grischun,3,Rural
+3551,Brusio,18,Graubünden / Grigioni / Grischun,3,Rural
+3561,Poschiavo,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3572,Falera,18,Graubünden / Grigioni / Grischun,3,Rural
+3575,Laax,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3581,Sagogn,18,Graubünden / Grigioni / Grischun,3,Rural
+3582,Schluein,18,Graubünden / Grigioni / Grischun,3,Rural
+3633,Fürstenau,18,Graubünden / Grigioni / Grischun,3,Rural
+3637,Rothenbrunnen,18,Graubünden / Grigioni / Grischun,3,Rural
+3638,Scharans,18,Graubünden / Grigioni / Grischun,3,Rural
+3640,Sils im Domleschg,18,Graubünden / Grigioni / Grischun,3,Rural
+3662,Flerden,18,Graubünden / Grigioni / Grischun,3,Rural
+3663,Masein,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3669,Tschappina,18,Graubünden / Grigioni / Grischun,3,Rural
+3670,Urmein,18,Graubünden / Grigioni / Grischun,3,Rural
+3681,Avers,18,Graubünden / Grigioni / Grischun,3,Rural
+3695,Sufers,18,Graubünden / Grigioni / Grischun,3,Rural
+3711,Rongellen,18,Graubünden / Grigioni / Grischun,3,Rural
+3712,Zillis-Reischen,18,Graubünden / Grigioni / Grischun,3,Rural
+3721,Bonaduz,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3722,Domat/Ems,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3723,Rhäzüns,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3731,Felsberg,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3732,Flims,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3733,Tamins,18,Graubünden / Grigioni / Grischun,3,Rural
+3734,Trin,18,Graubünden / Grigioni / Grischun,3,Rural
+3752,Samnaun,18,Graubünden / Grigioni / Grischun,3,Rural
+3781,Bever,18,Graubünden / Grigioni / Grischun,3,Rural
+3782,Celerina/Schlarigna,18,Graubünden / Grigioni / Grischun,3,Rural
+3783,Madulain,18,Graubünden / Grigioni / Grischun,3,Rural
+3784,Pontresina,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3786,Samedan,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3787,St. Moritz,18,Graubünden / Grigioni / Grischun,1,Urban
+3788,S-chanf,18,Graubünden / Grigioni / Grischun,3,Rural
+3789,Sils im Engadin/Segl,18,Graubünden / Grigioni / Grischun,3,Rural
+3790,Silvaplana,18,Graubünden / Grigioni / Grischun,3,Rural
+3791,Zuoz,18,Graubünden / Grigioni / Grischun,3,Rural
+3804,Buseno,18,Graubünden / Grigioni / Grischun,3,Rural
+3805,Castaneda,18,Graubünden / Grigioni / Grischun,3,Rural
+3808,Rossa,18,Graubünden / Grigioni / Grischun,3,Rural
+3810,Santa Maria in Calanca,18,Graubünden / Grigioni / Grischun,3,Rural
+3821,Lostallo,18,Graubünden / Grigioni / Grischun,3,Rural
+3822,Mesocco,18,Graubünden / Grigioni / Grischun,3,Rural
+3823,Soazza,18,Graubünden / Grigioni / Grischun,3,Rural
+3831,Cama,18,Graubünden / Grigioni / Grischun,3,Rural
+3834,Roveredo (GR),18,Graubünden / Grigioni / Grischun,2,Intermediate
+3835,San Vittore,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3861,Fideris,18,Graubünden / Grigioni / Grischun,3,Rural
+3862,Furna,18,Graubünden / Grigioni / Grischun,3,Rural
+3863,Jenaz,18,Graubünden / Grigioni / Grischun,3,Rural
+3881,Conters im Prättigau,18,Graubünden / Grigioni / Grischun,3,Rural
+3882,Küblis,18,Graubünden / Grigioni / Grischun,3,Rural
+3946,Untervaz,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3947,Zizers,18,Graubünden / Grigioni / Grischun,1,Urban
+3951,Fläsch,18,Graubünden / Grigioni / Grischun,3,Rural
+3952,Jenins,18,Graubünden / Grigioni / Grischun,3,Rural
+3953,Maienfeld,18,Graubünden / Grigioni / Grischun,3,Rural
+3954,Malans,18,Graubünden / Grigioni / Grischun,3,Rural
+3962,Schiers,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3972,Seewis im Prättigau,18,Graubünden / Grigioni / Grischun,3,Rural
+3982,Disentis/Mustér,18,Graubünden / Grigioni / Grischun,3,Rural
+3983,Medel (Lucmagn),18,Graubünden / Grigioni / Grischun,3,Rural
+3985,Sumvitg,18,Graubünden / Grigioni / Grischun,3,Rural
+3986,Tujetsch,18,Graubünden / Grigioni / Grischun,3,Rural
+3713,Ferrera,18,Graubünden / Grigioni / Grischun,3,Rural
+3945,Trimmis,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3851,Davos,18,Graubünden / Grigioni / Grischun,1,Urban
+3701,Andeer,18,Graubünden / Grigioni / Grischun,3,Rural
+3847,Val Müstair,18,Graubünden / Grigioni / Grischun,3,Rural
+3661,Cazis,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3792,Bregaglia,18,Graubünden / Grigioni / Grischun,3,Rural
+3911,Churwalden,18,Graubünden / Grigioni / Grischun,3,Rural
+3961,Grüsch,18,Graubünden / Grigioni / Grischun,3,Rural
+3955,Landquart,18,Graubünden / Grigioni / Grischun,1,Urban
+3987,Trun,18,Graubünden / Grigioni / Grischun,3,Rural
+3672,Safiental,18,Graubünden / Grigioni / Grischun,3,Rural
+3618,Lumnezia,18,Graubünden / Grigioni / Grischun,3,Rural
+3764,Valsot,18,Graubünden / Grigioni / Grischun,3,Rural
+3921,Arosa,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3619,Ilanz/Glion,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3542,Albula/Alvra,18,Graubünden / Grigioni / Grischun,3,Rural
+3603,Vals,18,Graubünden / Grigioni / Grischun,3,Rural
+3673,Domleschg,18,Graubünden / Grigioni / Grischun,3,Rural
+3762,Scuol,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3746,Zernez,18,Graubünden / Grigioni / Grischun,3,Rural
+3837,Calanca,18,Graubünden / Grigioni / Grischun,3,Rural
+3543,Surses,18,Graubünden / Grigioni / Grischun,3,Rural
+3988,Obersaxen Mundaun,18,Graubünden / Grigioni / Grischun,3,Rural
+3891,Luzein,18,Graubünden / Grigioni / Grischun,3,Rural
+5675,Lucens,22,Vaud,3,Rural
+5749,Chavornay,22,Vaud,2,Intermediate
+6077,Goms,23,Valais / Wallis,3,Rural
+6266,Sion,23,Valais / Wallis,1,Urban
+6253,Crans-Montana,23,Valais / Wallis,1,Urban
+5002,Bellinzona,21,Ticino,1,Urban
+5287,Riviera,21,Ticino,2,Intermediate
+295,Horgen,1,Zürich,1,Urban
+294,Elgg,1,Zürich,2,Intermediate
+608,Grosshöchstetten,2,Bern / Berne,2,Intermediate
+872,Kirchdorf (BE),2,Bern / Berne,3,Rural
+3668,Thusis,18,Graubünden / Grigioni / Grischun,2,Intermediate
+3544,Bergün Filisur,18,Graubünden / Grigioni / Grischun,3,Rural
+3981,Breil/Brigels,18,Graubünden / Grigioni / Grischun,3,Rural
+4104,Lupfig,19,Aargau,2,Intermediate
+6404,Boudry,24,Neuchâtel,1,Urban
+6408,Cortaillod,24,Neuchâtel,1,Urban
+6413,Rochefort,24,Neuchâtel,3,Rural
+6416,Milvignes,24,Neuchâtel,2,Intermediate
+6421,La Chaux-de-Fonds,24,Neuchâtel,1,Urban
+6422,Les Planchettes,24,Neuchâtel,3,Rural
+6423,La Sagne,24,Neuchâtel,3,Rural
+6432,La Brévine,24,Neuchâtel,3,Rural
+6433,Brot-Plamboz,24,Neuchâtel,3,Rural
+6434,Le Cerneux-Péquignot,24,Neuchâtel,3,Rural
+6435,La Chaux-du-Milieu,24,Neuchâtel,3,Rural
+6437,Les Ponts-de-Martel,24,Neuchâtel,3,Rural
+6451,Cornaux,24,Neuchâtel,2,Intermediate
+6452,Cressier (NE),24,Neuchâtel,2,Intermediate
+6455,Le Landeron,24,Neuchâtel,2,Intermediate
+6456,Lignières,24,Neuchâtel,3,Rural
+6487,Val-de-Ruz,24,Neuchâtel,2,Intermediate
+6504,La Côte-aux-Fées,24,Neuchâtel,3,Rural
+6511,Les Verrières,24,Neuchâtel,3,Rural
+6512,Val-de-Travers,24,Neuchâtel,2,Intermediate
+6730,Val Terbi,26,Jura,2,Intermediate
+6809,Haute-Ajoie,26,Jura,3,Rural
+6417,La Grande Béroche,24,Neuchâtel,2,Intermediate
+292,Stammheim,1,Zürich,3,Rural
+293,Wädenswil,1,Zürich,1,Urban
+304,Kallnach,2,Bern / Berne,3,Rural
+3714,Rheinwald,18,Graubünden / Grigioni / Grischun,3,Rural
+4281,Reitnau,19,Aargau,3,Rural
+6708,Courrendlin,26,Jura,2,Intermediate
+889,Thurnen,2,Bern / Berne,2,Intermediate
+939,Steffisburg,2,Bern / Berne,1,Urban
+981,Niederbipp,2,Bern / Berne,1,Urban
+1123,Altishofen,3,Luzern,2,Intermediate
+2117,Villaz,10,Fribourg / Freiburg,3,Rural
+2237,Prez,10,Fribourg / Freiburg,3,Rural
+3785,La Punt Chamues-ch,18,Graubünden / Grigioni / Grischun,3,Rural
+5138,Cugnasco-Gerra,21,Ticino,1,Urban
+5112,Lavertezzo,21,Ticino,1,Urban
+5399,Verzasca,21,Ticino,3,Rural
+1030,Hitzkirch,3,Luzern,2,Intermediate
+1151,Willisau,3,Luzern,2,Intermediate
+1214,Seedorf (UR),4,Uri,2,Intermediate
+2044,Surpierre,10,Fribourg / Freiburg,3,Rural
+2238,Bois-d'Amont,10,Fribourg / Freiburg,3,Rural
+2306,Tafers,10,Fribourg / Freiburg,3,Rural
+2430,Welschenrohr-Gänsbrunnen,11,Solothurn,3,Rural
+2499,Stüsslingen,11,Solothurn,3,Rural
+3715,Muntogna da Schons,18,Graubünden / Grigioni / Grischun,3,Rural
+5422,Aubonne,22,Vaud,2,Intermediate
+6037,Val de Bagnes,23,Valais / Wallis,2,Intermediate
+6136,Martigny,23,Valais / Wallis,1,Urban
+6254,Noble-Contrée,23,Valais / Wallis,1,Urban
+6458,Neuchâtel,24,Neuchâtel,1,Urban
+6436,Le Locle,24,Neuchâtel,1,Urban
+329,Langenthal,2,Bern / Berne,1,Urban
+409,Hindelbank,2,Bern / Berne,2,Intermediate
+879,Riggisberg,2,Bern / Berne,2,Intermediate
+5713,Crans (VD),22,Vaud,2,Intermediate
+3871,Klosters,18,Graubünden / Grigioni / Grischun,2,Intermediate
+5239,Tresa,21,Ticino,2,Intermediate
+5656,Hautemorges,22,Vaud,3,Rural
+5511,Assens,22,Vaud,3,Rural
+2275,Murten,10,Fribourg / Freiburg,1,Urban
+4185,Böztal,19,Aargau,3,Rural
+4324,Zurzach,19,Aargau,2,Intermediate
+5805,Oron,22,Vaud,2,Intermediate
+5892,Blonay - Saint-Légier,22,Vaud,1,Urban
+5240,Val Mara,21,Ticino,2,Intermediate
+3112,Schwende-Rüte,16,Appenzell Innerrhoden,1,Urban
+291,Andelfingen,1,Zürich,2,Intermediate
+546,Münchenbuchsee,2,Bern / Berne,2,Intermediate
+3396,Neckertal,17,St. Gallen,3,Rural
+6743,Les Breuleux,26,Jura,3,Rural
+4139,Menziken,19,Aargau,1,Urban
+4186,Herznach-Ueken,19,Aargau,2,Intermediate
+6811,Damphreux-Lugnez,26,Jura,3,Rural
+767,Reutigen,2,Bern / Berne,3,Rural
+992,Wangen an der Aare,2,Bern / Berne,3,Rural
+2465,Buchegg,11,Solothurn,3,Rural
+6812,Basse-Vendline,26,Jura,3,Rural
+4021,Baden,19,Aargau,1,Urban
+62,Kloten,1,Zürich,1,Urban
+64,Nürensdorf,1,Zürich,2,Intermediate
+3901,Chur,18,Graubünden / Grigioni / Grischun,1,Urban
+1065,Root,3,Luzern,2,Intermediate
+2097,Rue,10,Fribourg / Freiburg,3,Rural
+2102,Ursy,10,Fribourg / Freiburg,3,Rural
+2239,Grolley-Ponthaux,10,Fribourg / Freiburg,2,Intermediate
+6513,Laténa,24,Neuchâtel,1,Urban
+5073,Giornico,21,Ticino,3,Rural
+5079,Quinto,21,Ticino,3,Rural
+5395,Lema,21,Ticino,2,Intermediate
+2406,Oberbuchsiten,11,Solothurn,3,Rural
+2404,Neuendorf,11,Solothurn,3,Rural
+6831,Moutier,26,Jura,2,Intermediate
+2056,Fétigny-Ménières,10,Fribourg / Freiburg,3,Rural
+2262,Gurmels,10,Fribourg / Freiburg,3,Rural
+2525,Kriegstetten,11,Solothurn,2,Intermediate
+4095,Brugg,19,Aargau,1,Urban

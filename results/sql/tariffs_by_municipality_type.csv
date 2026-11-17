@@ -1,0 +1,4 @@
+municipality_type_code,municipality_type,municipality_count,mean_rp_kwh,min_rp_kwh,max_rp_kwh
+1,Urban,508,28.005,21.883,36.91
+2,Intermediate,579,28.182,16.227,41.365
+3,Rural,1021,28.361,9.643,43.613

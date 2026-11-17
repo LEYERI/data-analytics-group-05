@@ -153,18 +153,31 @@ Die aufbereiteten Tabellen liegen unter `data/processed/`.
 | gemeinden_ohne_tarif.csv | BFS-Gemeinden ohne gültigen Tarif im Bestand |
 | bereinigungsbilanz.csv | Mengenbilanz der Aufbereitung |
 
-## 2.8 Grenzen und weitere Verarbeitung
+## 2.8 Gemeindewerte für den statistischen Vergleich
 
-Die Analysetabelle enthält weiterhin mehrere Tarifzeilen je
-Gemeinde. Sie ist noch keine Tabelle mit einem Wert je Gemeinde.
+Für die Hauptanalyse verwenden wir eine Tabelle mit genau
+einer Zeile je Gemeinde.
 
-Vor dem statistischen Gemeindevergleich legen wir fest,
-wie Gemeinden mit mehreren Betreibern oder Tarifwerten
-berücksichtigt werden.
+Dazu berechnen wir:
+1. Den Mittelwert der vorhandenen unterschiedlichen Tarifwerte
+   je Gemeinde und Betreiber.
+2. Den Mittelwert dieser Betreiberwerte je Gemeinde.
 
-Ohne Kundenzahlen oder Verbrauchsanteile können wir keinen
-tatsächlich von den Haushalten bezahlten Durchschnittstarif
-berechnen.
+So erhält jeder Betreiber innerhalb einer Gemeinde das gleiche
+Gewicht. Im späteren Gruppenvergleich zählt jede Gemeinde einmal.
+
+Die resultierende Tabelle enthält 2’108 Gemeinden mit
+Tarifvergleichswert, Kanton und Stadt/Land-Typ.
+
+Der Tarifvergleichswert ist ungewichtet. Er entspricht keinem
+beobachteten durchschnittlich bezahlten Haushaltstarif,
+da Kunden- und Verbrauchsanteile fehlen.
+
+Die detaillierten Tarifdaten bleiben für weitere Prüfungen erhalten.
+
+Zusätzlich gespeicherte Dateien:
+- data/processed/tarifwerte_je_betreiber.csv
+- data/processed/gemeindewerte.csv
 
 ## 2.9 KI-Unterstützung
 

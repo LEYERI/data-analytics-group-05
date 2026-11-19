@@ -1,0 +1,38 @@
+{
+  "notebooks": [
+    {
+      "name": "01_data_collection.ipynb",
+      "code_cells": 14,
+      "status": "PASS"
+    },
+    {
+      "name": "02_data_preparation.ipynb",
+      "code_cells": 24,
+      "status": "PASS"
+    },
+    {
+      "name": "03_database.ipynb",
+      "code_cells": 9,
+      "status": "PASS"
+    },
+    {
+      "name": "04_analysis.ipynb",
+      "code_cells": 2,
+      "status": "PASS"
+    }
+  ],
+  "environment": "3.12.4 | packaged by Anaconda, Inc. | (main, Jun 18 2024, 15:03:56) [MSC v.1929 64 bit (AMD64)]",
+  "csv_checks": 19,
+  "sql_checks": {
+    "01_table_counts.sql": 3,
+    "02_municipality_values_join.sql": 2108,
+    "03_tariffs_by_municipality_type.sql": 3,
+    "04_municipalities_without_tariffs.sql": 2
+  },
+  "regenerated_byte_differences": [],
+  "analysis_report_reproduced": true,
+  "derived_outputs_removed_before_execution": true,
+  "figures_reproduced": 4,
+  "source_files_unchanged": true,
+  "unit_tests": "PASS"
+}

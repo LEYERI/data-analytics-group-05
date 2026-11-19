@@ -1,0 +1,8 @@
+# Integration status
+Completed: isolated branch, new explanatory pipeline, EDA/figures, 24 scenarios including main, old-reference recalculation, technical reproduction and independent statistical/code review.
+Original notebooks 01-03, raw/processed data, SQL and SQLite remain byte-for-byte unchanged against baseline.
+No commits, pushes, merges or publication performed. Feature changes are uncommitted and ready for review.
+Review corrections: fresh temporary builds remove all derived outputs before reproduction; six tests now cover coefficient equivalence to municipality OLS and manual two-way covariance; observation level of fit metrics is explicit; Herznach endpoint stress tests are distinguished from operator selection.
+Initial verification failure: exact JSON equality was inappropriate for floating results across direct execution and a fresh kernel; toleranced numerical comparison now complements source hashes. SQLite verification connections originally remained open on Windows; contextlib.closing fixes cleanup. Final fresh execution passes.
+Fresh Windows Python 3.12.4 installation and all four notebooks/six tests passed on 19 November 2026; see RELEASE_VERIFICATION.md. Concept presentation v3 PPTX/PDF/notes and historical visual review are complete; delivery hashes and numerical consistency were rechecked. Open: group scientific review, personal AI reflection, speaker agreement/rehearsal and Moodle submission. No commit or push is authorized until explicit approval.
+Proposed commit groups: technical tooling/environment/tests; analysis/results/methods; presentation preparation/docs. Do not include original local backups or previous decks.

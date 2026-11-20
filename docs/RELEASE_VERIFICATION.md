@@ -1,5 +1,6 @@
 # Release verification - 19 November 2026
 
+> Historical snapshot: 19 November 2026, before the first publication. For the current 20 November correction status see [review follow-up](REVIEW_FOLLOWUP_20261120.md).
 ## Scope and outcome
 PASS: fresh Windows x64 Python 3.12.4 virtual environment, isolated from the existing project environment. This is a Windows test, not a Linux/macOS or clean-machine certification. The venv was created from the existing Python 3.12.4 interpreter with system site-packages disabled; packages were installed anew (pip cache permitted).
 

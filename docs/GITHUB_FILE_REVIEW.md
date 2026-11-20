@@ -1,5 +1,6 @@
 # GitHub file selection - 19 November 2026
 
+> Historical snapshot: 19 November 2026, before the first publication. For the current 20 November correction status see [review follow-up](REVIEW_FOLLOWUP_20261120.md).
 Branch: `feat/harmonized-analysis`. This is an explicit proposed selection, not staged or committed. No commit/push is authorized yet. No new branch is required.
 
 ## Proposed changed/new files

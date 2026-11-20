@@ -1,5 +1,6 @@
 # Old and harmonized results - Group 5
 
+> Historical snapshot: 19 November 2026, before the first publication. For the current 20 November correction status see [review follow-up](REVIEW_FOLLOWUP_20261120.md).
 Local feature branch: feat/harmonized-analysis. Base: 9dc56db. No push, merge or publication.
 
 Both old and new coefficients were recalculated with the same explanatory analysis implementation. Old coefficients, confidence intervals, p-values and fit metrics match the archived reference within 1e-8 relative / 1e-9 absolute tolerance.

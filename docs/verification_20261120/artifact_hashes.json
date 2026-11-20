@@ -1,0 +1,8 @@
+{
+  "src/analysis.py": "b35adbaa0c03306813b71e13c8d3472238d4783529c4d39f3831e907e8742788",
+  "scripts/verify_pipeline.py": "0d2ede71d0612c489649eef6928520cfe9cde9fe7bde82d73d3cbd9639aaa294",
+  "tests/test_analysis.py": "e7caee83cc2415a86f5b42a0aa91963b63ad5ce6a41a6875e214a01df7465e25",
+  "notebooks/04_analysis.ipynb": "2934f48982beb5d12c3cf947c41fc17a2721d8190fbb95dd2c684fb6a6a0f916",
+  "presentation/v3/presentation_concept_group_05_EN_v3.pptx": "26575dfe0a8fd470bb3404e3d31548cb1c6db4b15002f8914bad893251c2845b",
+  "presentation/v3/presentation_concept_group_05_EN_v3.pdf": "56f309dac04954d82c51b52a94fc8f0ca055d06c37bdc97ccfa8ab3e0ea8b315"
+}

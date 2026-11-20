@@ -81,7 +81,7 @@ py -3.12 -m venv .venv
 .\.venv\Scripts\python.exe -m pip check
 ```
 
-Select this environment as the VS Code/Jupyter kernel. On other operating systems use the equivalent `python3.12` and `.venv/bin/python` commands; those platforms have not been tested in this release. `requirements-lock-windows-py312.txt` is the complete freeze of the earlier verified Windows environment, not a cross-platform lock. The fresh-install evidence and its actual dependency versions are in [release verification](docs/RELEASE_VERIFICATION.md).
+Select this environment as the VS Code/Jupyter kernel. On other operating systems use the equivalent `python3.12` and `.venv/bin/python` commands; those platforms have not been tested in this release. `requirements-lock-windows-py312.txt` is the complete freeze of the earlier verified Windows environment, not a cross-platform lock. The historical Windows fresh-install evidence and its actual dependency versions are in [release verification](docs/RELEASE_VERIFICATION.md); current corrections are in the [20 November review follow-up](docs/REVIEW_FOLLOWUP_20261120.md).
 
 Run the cells from top to bottom in this order.
 
@@ -128,3 +128,9 @@ The group used ChatGPT for code suggestions, explanations, debugging and documen
 ## Project team
 
 Group 5: Leyla Erikci, Sharuya Kenkanathan and Kevin Thurnes.
+
+## Review follow-up (20 November 2026)
+
+The feature additions were committed and pushed on 19 November (cb3a894, fd57400, a7a9497). The path compatibility correction writes POSIX-relative manifest keys and also reads older Windows keys. Ten automated tests now include cross-platform key comparisons; this does not substitute for a native macOS full-pipeline rerun. Notebook 04 includes saved outputs. See [review follow-up](docs/REVIEW_FOLLOWUP_20261120.md) and [optional criteria](docs/ADDITIONAL_CRITERIA.md).
+
+Concept presentation: approximately 10 minutes. Final project video: 5 minutes per member, therefore 15 minutes for Group 5; these are separate deliverables (official course PDF pages 2 and 4).

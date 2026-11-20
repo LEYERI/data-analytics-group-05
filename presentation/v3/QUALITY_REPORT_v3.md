@@ -1,5 +1,6 @@
 # Presentation v3 - quality report
 Stand: 19 November 2026. Group 5. Local delivery only, not approved by the whole group and not submitted.
+> Historical snapshot: 19 November 2026, before the first publication. For the current 20 November correction status see [review follow-up](../../docs/REVIEW_FOLLOWUP_20261120.md).
 
 ## Official concept rubric
 Source: Moodle_Projektanforderungen.pdf, pages 2-3, course capture 18 September 2026. Eight separately graded criteria; this report assesses coverage, not a promised grade.

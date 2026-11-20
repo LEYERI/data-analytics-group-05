@@ -47,7 +47,9 @@ with tempfile.TemporaryDirectory(prefix='group05_reproduction_') as tmp:
     # Compare computed summary, excluding notebook file hashes (new notebook is executed in memory).
     a=json.loads((root/'results/analysis/analysis_report.json').read_text());b=json.loads((work/'results/analysis/analysis_report.json').read_text())
     report['regenerated_byte_differences']=manifest_differences(a['inputs_sha256'], b['inputs_sha256'])
-    assert not any(key.startswith(('data/raw/','notebooks/')) for key in report['regenerated_byte_differences'])
+    report['regenerated_normalized_differences']=manifest_differences(a['inputs_normalized_sha256'], b['inputs_normalized_sha256'])
+    assert a['hash_policy']==b['hash_policy']=='sha256-crlf-to-lf-text-v1'
+    assert not any(key.startswith(('data/raw/','notebooks/')) for key in report['regenerated_normalized_differences'])
     assert a['counts']==b['counts'] and a['scenario_count']==b['scenario_count']
     for key,value in a['main_model'].items(): np.testing.assert_allclose(value,b['main_model'][key],rtol=1e-9,atol=1e-9)
     report['analysis_report_reproduced']=True

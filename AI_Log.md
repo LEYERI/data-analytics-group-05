@@ -37,3 +37,7 @@ Each member should answer in their own words:
 6. What limitations and responsibilities remain, and what would I do differently?
 
 Do not claim that any member has answered or approved this reflection until they do. The final slides and video must summarize the group's actual advantages, disadvantages and failed attempts.
+
+## 20 November 2026 - line-ending follow-up
+
+Leyla reported a remaining CRLF/LF hash failure after the path correction. Codex compared 17 input files against Git blobs, verified newline-only differences, added explicit Git attributes, retained historical byte hashes, and added narrow text-normalized hashes plus five regression tests. Two fresh Git-index checkout pipelines passed on Windows. No native Mac success is asserted. This records a concrete missed cross-platform assumption and its correction, not any member's personal reflection. See docs/LINE_ENDING_VERIFICATION.md.

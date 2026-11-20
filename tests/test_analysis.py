@@ -59,4 +59,26 @@ class ManifestPathTests(unittest.TestCase):
  def test_conflicting_normalized_keys_rejected(self):
   from src.analysis import manifest_differences
   with self.assertRaises(ValueError): manifest_differences({r'data\raw\a.csv':'abc','data/raw/a.csv':'def'}, {'data/raw/a.csv':'abc'})
+class LineEndingHashTests(unittest.TestCase):
+ def test_lf_crlf_text_equal(self):
+  from src.analysis import content_sha256
+  self.assertEqual(content_sha256('input.csv',b'a,b\n1,2\n'),content_sha256('input.csv',b'a,b\r\n1,2\r\n'))
+ def test_real_text_change_detected(self):
+  from src.analysis import content_sha256
+  self.assertNotEqual(content_sha256('input.json',b'{"x":1}\n'),content_sha256('input.json',b'{"x":2}\r\n'))
+ def test_binary_hashes_remain_exact(self):
+  import hashlib
+  from src.analysis import content_sha256
+  for ext in ['.sqlite','.db','.pdf','.pptx','.png','.jpg','.bin']:
+   with self.subTest(ext=ext):
+    b=b'binary\r\ncontent\x00'
+    self.assertEqual(content_sha256('file'+ext,b),hashlib.sha256(b).hexdigest())
+    self.assertNotEqual(content_sha256('file'+ext,b),content_sha256('file'+ext,b.replace(b'\r\n',b'\n')))
+ def test_other_whitespace_not_normalized(self):
+  from src.analysis import content_sha256
+  self.assertNotEqual(content_sha256('input.csv',b'a, b\n'),content_sha256('input.csv',b'a,b\n'))
+  self.assertNotEqual(content_sha256('input.csv',b'a,b'),content_sha256('input.csv',b'a,b\n'))
+ def test_standalone_carriage_return_not_normalized(self):
+  from src.analysis import content_sha256
+  self.assertNotEqual(content_sha256('input.csv',b'a\rb'),content_sha256('input.csv',b'a\nb'))
 if __name__=='__main__': unittest.main()

@@ -134,3 +134,7 @@ Group 5: Leyla Erikci, Sharuya Kenkanathan and Kevin Thurnes.
 The feature additions were committed and pushed on 19 November (cb3a894, fd57400, a7a9497). The path compatibility correction writes POSIX-relative manifest keys and also reads older Windows keys. Ten automated tests now include cross-platform key comparisons; this does not substitute for a native macOS full-pipeline rerun. Notebook 04 includes saved outputs. See [review follow-up](docs/REVIEW_FOLLOWUP_20261120.md) and [optional criteria](docs/ADDITIONAL_CRITERIA.md).
 
 Concept presentation: approximately 10 minutes. Final project video: 5 minutes per member, therefore 15 minutes for Group 5; these are separate deliverables (official course PDF pages 2 and 4).
+
+## Line-ending correction (20 November 2026)
+
+The verifier now distinguishes historical byte hashes from CRLF/LF-normalized text hashes. Git attributes select LF for known text and preserve binary files. Fifteen tests and two fresh Git-index checkout reproductions passed on Windows; native Mac/Linux confirmation remains separate. See [line-ending verification](docs/LINE_ENDING_VERIFICATION.md). Existing numerical results are unchanged.

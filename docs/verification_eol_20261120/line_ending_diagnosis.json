@@ -1,0 +1,104 @@
+[
+  {
+    "path": "data/raw/bfs_municipalities_2026_20261117T195841888739Z.csv",
+    "local_crlf": 2111,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  },
+  {
+    "path": "data/raw/bfs_municipalities_2026_20261117T195841888739Z_metadata.json",
+    "local_crlf": 40,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  },
+  {
+    "path": "data/raw/elcom_2026_h4_20261117T195442966207Z.json",
+    "local_crlf": 34027,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  },
+  {
+    "path": "data/raw/elcom_2026_h4_20261117T195442966207Z_metadata.json",
+    "local_crlf": 10,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  },
+  {
+    "path": "data/processed/bfs_municipalities_2026.csv",
+    "local_crlf": 2111,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  },
+  {
+    "path": "data/processed/cleaned_tariffs.csv",
+    "local_crlf": 2256,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  },
+  {
+    "path": "data/processed/cleaning_summary.csv",
+    "local_crlf": 10,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  },
+  {
+    "path": "data/processed/excluded_tariffs.csv",
+    "local_crlf": 2,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  },
+  {
+    "path": "data/processed/municipalities_without_tariffs.csv",
+    "local_crlf": 3,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  },
+  {
+    "path": "data/processed/municipality_number_mapping.csv",
+    "local_crlf": 18,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  },
+  {
+    "path": "data/processed/municipality_values.csv",
+    "local_crlf": 2109,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  },
+  {
+    "path": "data/processed/operator_tariff_values.csv",
+    "local_crlf": 2255,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  },
+  {
+    "path": "data/processed/tariff_provenance.csv",
+    "local_crlf": 2269,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  },
+  {
+    "path": "notebooks/01_data_collection.ipynb",
+    "local_crlf": 991,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  },
+  {
+    "path": "notebooks/02_data_preparation.ipynb",
+    "local_crlf": 2927,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  },
+  {
+    "path": "notebooks/03_database.ipynb",
+    "local_crlf": 822,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  },
+  {
+    "path": "notebooks/04_analysis.ipynb",
+    "local_crlf": 269,
+    "git_crlf": 0,
+    "equal_after_crlf_normalization": true
+  }
+]

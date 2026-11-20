@@ -12,6 +12,14 @@ KEY=['municipality_number_2026','operator_uri']
 TYPE='C(municipality_type, Treatment(reference="Urban"))'
 FORMULA='total_tariff ~ '+TYPE+' + C(canton_id)'
 
+TEXT_HASH_EXTENSIONS = frozenset({'.csv', '.json', '.ipynb', '.py', '.md', '.txt', '.yml', '.yaml'})
+
+def content_sha256(path, data):
+    """Normalize CRLF only for explicit text formats; hash all other bytes exactly."""
+    if Path(path).suffix.lower() in TEXT_HASH_EXTENSIONS:
+        data = data.replace(b'\r\n', b'\n')
+    return hashlib.sha256(data).hexdigest()
+
 def manifest_differences(expected, actual):
     """Compare relative input hashes across Windows and POSIX snapshots."""
     def normalize(manifest):
@@ -122,7 +130,8 @@ def main(root,output):
     fig,ax=plt.subplots(figsize=(8,4));ax.errorbar(c.estimate,[1,0],xerr=np.vstack([c.estimate-c.ci_low,c.ci_high-c.estimate]),fmt='o',capsize=4);ax.set_yticks([1,0],['Intermediate vs Urban','Rural vs Urban']);ax.axvline(0,color='grey',linestyle='--');ax.set_xlabel('Adjusted difference, Rp./kWh; 95% marginal interval');fig.tight_layout();fig.savefig(figdir/'03_coefficients.png',dpi=180);plt.close(fig)
     fig,ax=plt.subplots(figsize=(8,5));ax.scatter(diag.fitted,diag.residual,s=8,alpha=.4);ax.axhline(0,color='grey');ax.set(xlabel='Fitted tariff',ylabel='Residual (Rp./kWh)');fig.tight_layout();fig.savefig(figdir/'04_residuals.png',dpi=180);plt.close(fig)
     manifest={p.relative_to(root).as_posix():hashlib.sha256(p.read_bytes()).hexdigest() for folder in ['data/raw','data/processed','notebooks'] for p in sorted((root/folder).glob('*')) if p.is_file()}
-    report={'counts':{'raw':2268,'historical_ids_harmonized':17,'identical_combinations_consolidated':12,'missing_tariffs_excluded':1,'tariffs':len(tariffs),'operator_values':len(d),'municipalities':len(m),'operators':int(d.operator_uri.nunique()),'multi_operator_municipalities':int((m.n_operators>1).sum()),'uncovered_municipalities':2},'main_model':mainmetrics,'inputs_sha256':manifest,'scenario_count':len(cases),'interpretation':'Explanatory, equal-municipality comparison; in-sample fit, not causal or predictive validation.'}
+    normalized_manifest={key:content_sha256(key,(root/key).read_bytes()) for key in manifest}
+    report={'counts':{'raw':2268,'historical_ids_harmonized':17,'identical_combinations_consolidated':12,'missing_tariffs_excluded':1,'tariffs':len(tariffs),'operator_values':len(d),'municipalities':len(m),'operators':int(d.operator_uri.nunique()),'multi_operator_municipalities':int((m.n_operators>1).sum()),'uncovered_municipalities':2},'main_model':mainmetrics,'inputs_sha256':manifest,'inputs_normalized_sha256':normalized_manifest,'hash_policy':'sha256-crlf-to-lf-text-v1','scenario_count':len(cases),'interpretation':'Explanatory, equal-municipality comparison; in-sample fit, not causal or predictive validation.'}
     (output/'analysis_report.json').write_text(json.dumps(report,indent=2),encoding='utf8')
     print(json.dumps(report['main_model'],indent=2))
 if __name__=='__main__':

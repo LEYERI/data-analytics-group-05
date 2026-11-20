@@ -42,5 +42,25 @@
     "notebooks/04_analysis.ipynb": "2934f48982beb5d12c3cf947c41fc17a2721d8190fbb95dd2c684fb6a6a0f916"
   },
   "scenario_count": 24,
-  "interpretation": "Explanatory, equal-municipality comparison; in-sample fit, not causal or predictive validation."
+  "interpretation": "Explanatory, equal-municipality comparison; in-sample fit, not causal or predictive validation.",
+  "inputs_normalized_sha256": {
+    "data/raw/bfs_municipalities_2026_20261117T195841888739Z.csv": "1d68b882f68753e6b9667ec630035db5585c467338a2fc400da49335230f8776",
+    "data/raw/bfs_municipalities_2026_20261117T195841888739Z_metadata.json": "ab627ae9d2553f6df88d8085305eb4aa4b281386bda6fa1b3ca4a38a9e1dc3e3",
+    "data/raw/elcom_2026_h4_20261117T195442966207Z.json": "d635a116a440fa266018055ef559a1c563a7aa16646166a209e01de93f48ad5c",
+    "data/raw/elcom_2026_h4_20261117T195442966207Z_metadata.json": "519bd7554f03fdd18813220702feb28b24483fa46157b17e58d1b7333463f76e",
+    "data/processed/bfs_municipalities_2026.csv": "4d7b542aab717ce88e0db1f88463ed5abbc8eb10b0f90ae7377439778d785093",
+    "data/processed/cleaned_tariffs.csv": "e2e1740ed18aacba472594e22ef6fe45cd1bde7383a582fba8d16c3db5933120",
+    "data/processed/cleaning_summary.csv": "edb88bff8b7d52f2a7ac9d2f32c00ce76087c59d2ca29f475b90987cb2102341",
+    "data/processed/excluded_tariffs.csv": "e5b5ea85279ddedb0e65efda107f3ed0683493b669bec6a501dc0446948fcc4d",
+    "data/processed/municipalities_without_tariffs.csv": "0c60a84fc4660442f1217f8376173ce81ecd22a21b45e26d5364559f0f78a52a",
+    "data/processed/municipality_number_mapping.csv": "0ef6f7044e4473797a821bbe604edba1b12e3f2550a64a3debec8748f088e3e2",
+    "data/processed/municipality_values.csv": "6ecc2b71cd12b18e16ee90990e2d58f613ac051aae0666c2fedebf3e864f436c",
+    "data/processed/operator_tariff_values.csv": "7d84b94b372bc60c1fa53633f99e261c93f10c1729c4283851a9790774a2150b",
+    "data/processed/tariff_provenance.csv": "a6b12de18611583d90b5ba3d0710930ce0d3ad9e7824977f1c6423b4b142d2db",
+    "notebooks/01_data_collection.ipynb": "bf56710257cf52acc01def619abbb4a1d637796eaa578cc52ce8388f2219e47e",
+    "notebooks/02_data_preparation.ipynb": "2967cfd0bb1e60ac7f4e3c511a57a72b50ab88cefacffb0082c191c4106e9c3b",
+    "notebooks/03_database.ipynb": "f7fa4b821181cd0cb9263343ee29193985e4feda717d44becd9a90871aea8df8",
+    "notebooks/04_analysis.ipynb": "2ebac3c1863f108be497e21e812cc0724b83100c78a23cccad93a80b41a21dfd"
+  },
+  "hash_policy": "sha256-crlf-to-lf-text-v1"
 }

@@ -7,8 +7,10 @@ from nbclient import NotebookClient
 from jupyter_client import KernelManager
 from jupyter_client.kernelspec import KernelSpecManager
 root=Path(__file__).resolve().parents[1]
+sys.path.insert(0,str(root))
+from src.analysis import manifest_differences
 sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
-original={str(p.relative_to(root)):sha(p) for p in root.rglob('*') if p.is_file() and '.git' not in p.parts and '__pycache__' not in p.parts}
+original={p.relative_to(root).as_posix():sha(p) for p in root.rglob('*') if p.is_file() and '.git' not in p.parts and '__pycache__' not in p.parts}
 report={'notebooks':[],'environment':sys.version,'csv_checks':0}
 with tempfile.TemporaryDirectory(prefix='group05_reproduction_') as tmp:
     work=Path(tmp)/'project';shutil.copytree(root,work,ignore=shutil.ignore_patterns('.git','__pycache__'))
@@ -44,7 +46,7 @@ with tempfile.TemporaryDirectory(prefix='group05_reproduction_') as tmp:
         report['sql_checks']={f.name:len(pd.read_sql_query(f.read_text(encoding='utf8'),b)) for f in sorted((root/'sql').glob('*.sql'))}
     # Compare computed summary, excluding notebook file hashes (new notebook is executed in memory).
     a=json.loads((root/'results/analysis/analysis_report.json').read_text());b=json.loads((work/'results/analysis/analysis_report.json').read_text())
-    report['regenerated_byte_differences']=[key for key,value in a['inputs_sha256'].items() if value!=b['inputs_sha256'][key]]
+    report['regenerated_byte_differences']=manifest_differences(a['inputs_sha256'], b['inputs_sha256'])
     assert not any(key.startswith(('data/raw/','notebooks/')) for key in report['regenerated_byte_differences'])
     assert a['counts']==b['counts'] and a['scenario_count']==b['scenario_count']
     for key,value in a['main_model'].items(): np.testing.assert_allclose(value,b['main_model'][key],rtol=1e-9,atol=1e-9)

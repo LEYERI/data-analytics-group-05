@@ -45,4 +45,18 @@ class AnalysisTests(unittest.TestCase):
   d=pd.DataFrame({'municipality_number_2026':[1,1,2], 'operator_uri':['a','b','c'], 'total_tariff':[10.,30.,40.]})
   np.testing.assert_allclose(weighted_data(d).weight,[.5,.5,1.])
   np.testing.assert_allclose(weighted_data(d[d.operator_uri!='b']).weight,[1.,1.])
+class ManifestPathTests(unittest.TestCase):
+ def test_windows_and_posix_manifest_keys_match(self):
+  from src.analysis import manifest_differences
+  self.assertEqual(manifest_differences({r'data\raw\input.csv':'abc'}, {'data/raw/input.csv':'abc'}), [])
+  self.assertEqual(manifest_differences({'data/raw/input.csv':'abc'}, {r'data\raw\input.csv':'abc'}), [])
+ def test_changed_hash_returns_posix_key(self):
+  from src.analysis import manifest_differences
+  self.assertEqual(manifest_differences({r'data\raw\input.csv':'abc'}, {'data/raw/input.csv':'def'}), ['data/raw/input.csv'])
+ def test_missing_manifest_key_is_not_ignored(self):
+  from src.analysis import manifest_differences
+  with self.assertRaises(ValueError): manifest_differences({'data/raw/a.csv':'abc'}, {})
+ def test_conflicting_normalized_keys_rejected(self):
+  from src.analysis import manifest_differences
+  with self.assertRaises(ValueError): manifest_differences({r'data\raw\a.csv':'abc','data/raw/a.csv':'def'}, {'data/raw/a.csv':'abc'})
 if __name__=='__main__': unittest.main()

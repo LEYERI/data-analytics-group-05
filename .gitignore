@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+# Local presentation build, redundant renders and machine-specific QA intermediates
+/presentation/v3/build/
+# Historical local preparation notes; current status is in INTEGRATION_STATUS.md
+/docs/INTEGRATION_PLAN.md
+/docs/CONCEPT_UPDATE_EN.md

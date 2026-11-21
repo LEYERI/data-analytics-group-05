@@ -1,0 +1,23 @@
+# Unknown/binary formats are never normalized. Explicit text checkouts use LF.
+* -text
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.ipynb text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.sql text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+*.sqlite binary
+*.sqlite3 binary
+*.db binary
+*.pdf binary
+*.pptx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.zip binary

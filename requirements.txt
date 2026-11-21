@@ -1,0 +1,13 @@
+requests>=2.31,<3
+pandas>=2.1,<3
+numpy>=1.24,<3
+scipy>=1.11,<2
+statsmodels>=0.14,<0.16
+matplotlib>=3.7,<4
+nbformat>=5.9,<6
+nbclient>=0.9,<1
+ipykernel>=6.25,<8
+jupyterlab>=4,<5
+
+# Use constraints-tested.txt for the verified combination.
+# Complete Windows/Python 3.12 lock: requirements-lock-windows-py312.txt

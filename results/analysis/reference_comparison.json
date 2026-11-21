@@ -1,0 +1,10 @@
+{
+  "old_results_independently_reproduced": true,
+  "old_reference_files_sha256": {
+    "data/processed/tariffs_joined.csv": "0214060ea68675bd28020e08031ea7e5521224701fa41e878829efd549c03e67",
+    "results/model_metrics.csv": "e3e7a2defd9ea4b743ffc4d33170d61987546ef2961e769a8eb79c982f2fbf31",
+    "results/coefficients_typ.csv": "883760251d9cd59ad4cf8bee2e790c28c8b5d4fa449b5e31a84e9efd4ecddafd",
+    "results/joint_test.json": "1854398d0f44067579fda6bc7ad23467400bf8eeb042c260b81df99c71bc75a0"
+  },
+  "note": "Reference comparison is separate from the self-contained current pipeline; requires the archived reference project."
+}

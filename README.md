@@ -38,7 +38,7 @@ The original API responses and retrieval metadata are in `data/raw/`.
 | 3. Store data in SQLite and run SQL from Python | Complete |
 | Exploratory data analysis | Implemented on this feature branch; group review pending |
 | Regression and model evaluation | Implemented and technically reproduced; group review pending |
-| Final interpretation and presentation | Concept presentation v3 prepared; group approval and rehearsal pending |
+| Final interpretation and presentation | Final concept presentation  prepared; group approval and rehearsal pending |
 
 We join the sources by BFS municipality number and use official change notices to document municipality number updates.
 
@@ -68,7 +68,9 @@ After harmonizing municipality numbers, we consolidate 12 identical municipality
 | `src/analysis.py` | Explanatory models, EDA and 24 sensitivity scenarios including the main model |
 | `results/analysis/` | Current coefficients, fit metrics, sensitivity results and four figures |
 | `tests/`, `scripts/` | Statistical checks and temporary-copy reproduction |
-| `presentation/v3/` | Canonical English concept PPTX, PDF, notes and historical visual QA |
+| `maps/` | Tariff map 2026 by municipality: notebook, PNG and README (bonus: geodata) |
+| `presentation/` | Final concept presentation, PPTX and PDF (22 November 2026) |
+| `presentation/v3/` | Earlier English version v3: PPTX, PDF, notes and historical visual QA |
 | `docs/` | Detailed project documentation |
 
 ## Run the notebooks in VS Code
@@ -117,13 +119,17 @@ The original project was translated into English with AI assistance. Original me
 6. [Release verification](docs/RELEASE_VERIFICATION.md) and [file selection](docs/GITHUB_FILE_REVIEW.md)
 7. [Integration status](docs/INTEGRATION_STATUS.md)
 
-## Concept presentation v3
+## Final concept presentation
+
+[Editable PowerPoint](presentation/presentation_concept_group_05.pptx) and [PDF](presentation/presentation_concept_group_05.pdf), revised on 22 November 2026 (see [AI_Log.md](AI_Log.md)). The map on slide 3 is produced by [maps/05_map.ipynb](maps/05_map.ipynb).
+
+## Concept presentation v3 (earlier version)
 
 [Editable PowerPoint](presentation/v3/presentation_concept_group_05_EN_v3.pptx), [PDF](presentation/v3/presentation_concept_group_05_EN_v3.pdf), [speaker notes](presentation/v3/speaker_notes_group_05_EN_v3.md) and [visual QA record](presentation/v3/QUALITY_REPORT_v3.md). The deck uses the harmonized results. It is a review draft, not evidence of group approval or Moodle submission. Speaker allocation and timing need agreement/rehearsal. The local PowerPoint build depends on machine-specific tools and paths and is intentionally not included; edit the canonical PPTX or regenerate analysis figures from Python.
 
 ## AI assistance
 
-The group used ChatGPT for code suggestions, explanations, debugging and documentation. The original linked documents describe its use and limitations. Codex assisted the additional analysis, tests, reproduction tooling, documentation and presentation. See [AI_Log.md](AI_Log.md) for this feature branch; personal reflections and group acceptance remain open.
+The group used ChatGPT for code suggestions, explanations, debugging and documentation. The original linked documents describe its use and limitations. Codex assisted the additional analysis, tests, reproduction tooling, documentation and presentation. See [AI_Log.md](AI_Log.md) for this feature branch; personal reflections and group acceptance remain open. Claude (Anthropic) assisted the revision of the final concept presentation and the map notebook (see the 22 November 2026 entry in AI_Log.md).
 
 ## Project team
 

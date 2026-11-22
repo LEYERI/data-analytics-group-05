@@ -41,3 +41,13 @@ Do not claim that any member has answered or approved this reflection until they
 ## 20 November 2026 - line-ending follow-up
 
 Leyla reported a remaining CRLF/LF hash failure after the path correction. Codex compared 17 input files against Git blobs, verified newline-only differences, added explicit Git attributes, retained historical byte hashes, and added narrow text-normalized hashes plus five regression tests. Two fresh Git-index checkout pipelines passed on Windows. No native Mac success is asserted. This records a concrete missed cross-platform assumption and its correction, not any member's personal reflection. See docs/LINE_ENDING_VERIFICATION.md.
+
+## 22 November 2026 - concept presentation revision and map (Sharuya)
+
+Sharuya used Claude (Anthropic) to review concept presentation v3 against the Moodle criteria and the lecture notes of 17 November, and to revise it into the final concept version (presentation/presentation_concept_group_05.pptx and .pdf). Claude added an outline, background and closing slide, a data excerpt with data types, the workflow and the reason for using regression, three hypotheses with their tests, clearer wording of the results (no causal language, R² 0.002 instead of 0.00) and speaker notes in simple English with a fair split between the three members. All numbers were taken from the existing files in data/processed and results/analysis; no new analysis was run.
+
+Claude also wrote the map notebook maps/05_map.ipynb (municipality boundaries 2026 from BFS, GEOSTAT via swiss-maps 4.7.0, joined on the BFS number).
+
+Problems found while using AI: some first suggestions were too strong or not supported by our data (for example "tariffs often change at cantonal borders") and were corrected after a second review. A first placement of the map notebook in notebooks/ would have changed the input hash manifest of src/analysis.py, so it was moved to maps/. A PowerPoint rendering difference (a table column not shown) was only found by checking the exported PDF.
+
+Sharuya's personal reflection on AI use follows for the final submission.
